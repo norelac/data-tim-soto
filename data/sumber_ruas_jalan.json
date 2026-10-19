@@ -1,0 +1,146 @@
+[
+  {
+    "kecamatan": "Banyumanik",
+    "paket": "daftar-ruas-jalan-kec-banyumanik-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Banyumanik Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 112,
+    "resource_url": "https://drive.google.com/file/d/1XBAO1es_N3iaFSBhOn56Jp6eZa89YTQ5/view",
+    "file_lokal": "ruas_banyumanik.xlsx"
+  },
+  {
+    "kecamatan": "Candisari",
+    "paket": "daftar-ruas-jalan-kec-candisari-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Candisari Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 29,
+    "resource_url": "https://drive.google.com/file/d/1SIgMlUu0zP_pTZPQafqRmCuvfvg-zX6n/view",
+    "file_lokal": "ruas_candisari.xlsx"
+  },
+  {
+    "kecamatan": "Gajah Mungkur",
+    "paket": "daftar-ruas-jalan-kec-gajah-mungkur-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Gajah Mungkur Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 41,
+    "resource_url": "https://drive.google.com/file/d/1zAnHiva2ufjIXtl7tZ6OHs1kWQPvor58/view",
+    "file_lokal": "ruas_gajah_mungkur.xlsx"
+  },
+  {
+    "kecamatan": "Gayamsari",
+    "paket": "daftar-ruas-jalan-kec-gayamsari-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Gayamsari Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 29,
+    "resource_url": "https://drive.google.com/file/d/1R27rxFSbmeKXMh1AkehpdB2oTpblLSCg/view",
+    "file_lokal": "ruas_gayamsari.xlsx"
+  },
+  {
+    "kecamatan": "Genuk",
+    "paket": "daftar-ruas-jalan-kec-genuk-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Genuk Kota Semarang 2022",
+    "tipe_file": "sheets",
+    "baris": 42,
+    "resource_url": "https://docs.google.com/spreadsheets/d/14jZ6NSFaplkGPXgKhMTON3lxlZO6aNFX/edit?usp=sharing&ouid=103962648511633023142&rtpof=true&sd=true",
+    "file_lokal": "ruas_genuk.xlsx"
+  },
+  {
+    "kecamatan": "Gunung Pati",
+    "paket": "daftar-ruas-jalan-kec-gunung-pati-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Gunung Pati Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 56,
+    "resource_url": "https://drive.google.com/file/d/1kd2b-SdyVWfRny6HrJ2YtZNBzHuoI-kX/view",
+    "file_lokal": "ruas_gunung_pati.xlsx"
+  },
+  {
+    "kecamatan": "Mijen",
+    "paket": "daftar-ruas-jalan-kec-mijen-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Mijen Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 40,
+    "resource_url": "https://drive.google.com/file/d/1UPlO_NVh5Bl0bSdq4A-YJVUNttcg6iA3/view",
+    "file_lokal": "ruas_mijen.xlsx"
+  },
+  {
+    "kecamatan": "Ngaliyan",
+    "paket": "daftar-ruas-jalan-kec-ngaliyan-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Ngaliyan Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 44,
+    "resource_url": "https://drive.google.com/file/d/1hI0kAuRLMpzss99i2Bp_MNkZM-VJF7Y3/view",
+    "file_lokal": "ruas_ngaliyan.xlsx"
+  },
+  {
+    "kecamatan": "Pedurungan",
+    "paket": "daftar-ruas-jalan-kec-pedurungan-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Pedurungan Kota Semarang 2022",
+    "tipe_file": "sheets",
+    "baris": 100,
+    "resource_url": "https://docs.google.com/spreadsheets/d/1QFxlhSUs-LWm49SPWY2K8g6WDAN2_4ix/edit?usp=sharing&ouid=103962648511633023142&rtpof=true&sd=true",
+    "file_lokal": "ruas_pedurungan.xlsx"
+  },
+  {
+    "kecamatan": "Semarang Barat",
+    "paket": "daftar-ruas-jalan-kec-semarang-barat-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Semarang Barat Kota Semarang 2022",
+    "tipe_file": "sheets",
+    "baris": 82,
+    "resource_url": "https://docs.google.com/spreadsheets/d/1ZDsfjkv_UCBP3uVyDDP5rq2x_aQPijYJ/edit?usp=sharing&ouid=103962648511633023142&rtpof=true&sd=true",
+    "file_lokal": "ruas_semarang_barat.xlsx"
+  },
+  {
+    "kecamatan": "Semarang Selatan",
+    "paket": "daftar-ruas-jalan-kec-semarang-selatan-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Semarang Selatan Kota Semarang 2022",
+    "tipe_file": "sheets",
+    "baris": 86,
+    "resource_url": "https://docs.google.com/spreadsheets/d/1mqaBoqjdynWvP8owdvvpCwaeeG-nY3bu/edit?usp=sharing&ouid=103962648511633023142&rtpof=true&sd=true",
+    "file_lokal": "ruas_semarang_selatan.xlsx"
+  },
+  {
+    "kecamatan": "Semarang Tengah",
+    "paket": "daftar-ruas-jalan-kec-semarang-tengah-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Semarang Tengah Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 95,
+    "resource_url": "https://drive.google.com/file/d/1JbskE-MmFv7U7rTVRoacgiqanmK52rTH/view",
+    "file_lokal": "ruas_semarang_tengah.xlsx"
+  },
+  {
+    "kecamatan": "Semarang Timur",
+    "paket": "daftar-ruas-jalan-kec-semarang-timur-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Semarang Timur Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 46,
+    "resource_url": "https://drive.google.com/file/d/1ZAHigtXZ_YM2nuDZxiOuXnyk8CLeuR2L/view",
+    "file_lokal": "ruas_semarang_timur.xlsx"
+  },
+  {
+    "kecamatan": "Semarang Utara",
+    "paket": "daftar-ruas-jalan-kec-semarang-utara-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Semarang Utara Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 60,
+    "resource_url": "https://drive.google.com/file/d/1r2xEB9TV-BQZclNiPONYqB0iv2gry9rv/view",
+    "file_lokal": "ruas_semarang_utara.xlsx"
+  },
+  {
+    "kecamatan": "Tembalang",
+    "paket": "daftar-ruas-jalan-kec-tembalang-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Tembalang Kota Semarang 2022",
+    "tipe_file": "sheets",
+    "baris": 134,
+    "resource_url": "https://docs.google.com/spreadsheets/d/1AjrAcQZKt9nuS-2sAtPbiSJDF79lrEJR/edit?usp=sharing&ouid=103962648511633023142&rtpof=true&sd=true",
+    "file_lokal": "ruas_tembalang.xlsx"
+  },
+  {
+    "kecamatan": "Tugu",
+    "paket": "daftar-ruas-jalan-kec-tugu-kota-semarang-2022",
+    "judul": "Daftar Ruas Jalan Kec Tugu Kota Semarang 2022",
+    "tipe_file": "drive",
+    "baris": 16,
+    "resource_url": "https://drive.google.com/file/d/1EKZIMht8Tt33ZVwEQH45CJJ8ww_DkZxy/view",
+    "file_lokal": "ruas_tugu.xlsx"
+  }
+]
