@@ -1,2 +1,13 @@
 # Word lock files
 ~$*
+
+# Dokumen panitia (tidak untuk dipublikasikan)
+*.pdf
+
+# Data mentah OSM (besar; bisa diunduh ulang via scripts/12_fetch_osm_roads.py)
+data/osm/raw/
+data/osm/raw_tiles/
+
+# Python
+__pycache__/
+*.pyc

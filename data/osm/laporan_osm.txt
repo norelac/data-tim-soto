@@ -1,0 +1,33 @@
+ruas dataset          : 1012
+cocok ke OSM          : 664 (65.6%)
+  panjang mirip (±60%) : 402 (39.7%)  → layak digambar tanpa catatan
+  sebagian / berlebih  : 262
+way OSM terpakai      : 2356 dari 23152 way bernama
+panjang dataset cocok : 478.2 km
+panjang OSM (cocok)   : 465.4 km
+rasio OSM/dataset     : median 1.00  (p10 0.28 · p90 2.55)
+dalam ±25%            : 311/664
+
+metode:
+  persis         566
+  tidak cocok    348
+  induk          73
+  mirip          25
+
+per kecamatan (cocok/total · penuh, km dataset):
+  Gajah Mungkur          33/41    80.5%  · penuh  25  61.0%    31.0 km
+  Semarang Tengah        78/95    82.1%  · penuh  53  55.8%    53.4 km
+  Banyumanik             95/112   84.8%  · penuh  58  51.8%    67.3 km
+  Candisari              24/29    82.8%  · penuh  15  51.7%    22.1 km
+  Gayamsari              16/29    55.2%  · penuh  15  51.7%    25.2 km
+  Semarang Selatan       62/86    72.1%  · penuh  43  50.0%    43.9 km
+  Semarang Barat         63/82    76.8%  · penuh  38  46.3%    64.9 km
+  Semarang Utara         36/60    60.0%  · penuh  23  38.3%    39.2 km
+  Semarang Timur         29/46    63.0%  · penuh  17  37.0%    32.2 km
+  Tembalang              81/134   60.4%  · penuh  44  32.8%    98.3 km
+  Pedurungan             64/100   64.0%  · penuh  32  32.0%    66.3 km
+  Ngaliyan               25/44    56.8%  · penuh  13  29.5%    52.5 km
+  Genuk                  16/42    38.1%  · penuh  11  26.2%    66.2 km
+  Gunung Pati            26/56    46.4%  · penuh  12  21.4%    83.5 km
+  Tugu                    4/16    25.0%  · penuh   2  12.5%    18.0 km
+  Mijen                  12/40    30.0%  · penuh   1   2.5%    76.0 km

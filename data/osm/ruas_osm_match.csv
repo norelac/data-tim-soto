@@ -1,0 +1,1013 @@
+kecamatan,kode_ruas,nama_ruas,kondisi,panjang_dataset_m,panjang_osm_m,rasio,kualitas,n_way,metode,osm_name
+Banyumanik,33.74.11.016,Jl. Gaharu Utara,Sedang,234.0,237.8,1.016,penuh,1,persis,Jalan Gaharu Utara
+Banyumanik,33.74.11.094,Jl. Tanjung Sari 1,Sedang,218.0,215.2,0.987,penuh,1,persis,Jalan Tanjungsari I
+Banyumanik,33.74.11.093,Jl. Tanjung Sari,Sedang,401.0,1480.8,3.693,berlebih,8,persis,Jalan Tanjungsari
+Banyumanik,33.74.11.062,Jl. Ngesrep Timur 6,Sedang,451.0,447.1,0.991,penuh,3,persis,Jalan Ngesrep Timur VI
+Banyumanik,33.74.11.018,Jl. Gombel Indah,Sedang,321.0,861.3,2.683,berlebih,4,persis,Jalan Gombel Indah
+Banyumanik,33.74.11.032,Jl. Jatingaleh 1,Sedang,569.0,690.7,1.214,penuh,4,persis,Jalan Jatingaleh I
+Banyumanik,33.74.11.033,Jl. Jatingaleh 2,Baik,283.0,718.7,2.54,berlebih,3,persis,Jalan Jatingaleh II
+Banyumanik,33.74.11.058,Jl. Ngesrep Barat 3,Sedang,608.0,950.7,1.564,penuh,6,persis,Jalan Ngesrep Barat III
+Banyumanik,33.74.11.028,Jl. Jati Utara,Baik,169.0,231.3,1.369,penuh,4,persis,Jalan Jati Utara
+Banyumanik,33.74.11.011,Jl. Durian Selatan,Baik,455.0,881.2,1.937,berlebih,5,induk (2 ruas),Jalan Durian Selatan I | Jalan Durian Selatan II
+Banyumanik,33.74.11.027,Jl. Jati,Sedang,1079.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.078,Jl. Rumpun Diponegoro,Sedang,708.0,832.0,1.175,penuh,8,persis,Jalan Rumpun Diponegoro
+Banyumanik,33.74.11.075,Jl. Rasamala,Baik,563.0,233.5,0.415,sebagian,2,persis,Jalan Rasamala
+Banyumanik,33.74.11.012,Jl. Durian Selatan 2,Sedang,371.0,559.7,1.509,penuh,3,persis,Jalan Durian Selatan II
+Banyumanik,33.74.11.065,Jl. Nusa Indah,Baik,496.0,505.0,1.018,penuh,2,persis,Jalan Nusa Indah
+Banyumanik,33.74.11.037,Jl. Kalipepe 1,Baik,392.0,479.9,1.224,penuh,2,persis,Jalan Kalipepe I
+Banyumanik,33.74.11.036,Jl. Kalipepe,Baik,475.0,321.0,0.676,penuh,2,persis,Jalan Kalipepe
+Banyumanik,33.74.11.055,Jl. Muteran,Sedang,1091.0,524.0,0.48,sebagian,6,induk (3 ruas),Jalan Muteran II | Jalan Muteran III | Jalan Muteran IV
+Banyumanik,33.74.11.087,Jl. Setuk,Sedang,517.0,324.1,0.627,penuh,2,persis,Jalan Setuk
+Banyumanik,33.74.11.072,Jl. Potrosari Tengah,Sedang,617.0,621.9,1.008,penuh,1,persis,Jalan Potrosari Tengah
+Banyumanik,33.74.11.069,Jl. Potrosari 3,Sedang,261.0,349.9,1.34,penuh,2,mirip (0.98),Jalan Potosari III
+Banyumanik,33.74.11.071,Jl. Potrosari Lapangan,Sedang,444.0,446.6,1.006,penuh,1,mirip (1.00),Jalan Potosari Lapangan
+Banyumanik,33.74.11.056,Jl. Nangka,Baik,437.0,430.4,0.985,penuh,1,persis,Jalan Nangka
+Banyumanik,33.74.11.021,Jl. Grafika,Baik,1139.0,226.2,0.199,sebagian,1,persis,Jalan Grafika
+Banyumanik,33.74.11.041,Jl. Karangrejo,Baik,1140.0,1202.1,1.054,penuh,2,persis,Jalan Karangrejo
+Banyumanik,33.74.11.010,Jl. Durian,Baik,1896.0,65.3,0.034,sebagian,1,persis,Jalan Durian
+Banyumanik,33.74.11.019,Jl. Gombel Lama,Baik,1271.0,791.6,0.623,penuh,1,persis,Jalan Gombel Lama
+Banyumanik,33.74.11.015,Jl. Gaharu,Baik,654.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.045,Jl. Kruing,Rusak Ringan,525.0,181.6,0.346,sebagian,2,persis,Jalan Kruing
+Banyumanik,33.74.11.048,Jl. Meranti,Baik,667.0,355.3,0.533,sebagian,2,persis,Jalan Meranti
+Banyumanik,33.74.11.089,Jl. Sukun,Baik,682.0,851.7,1.249,penuh,3,induk (2 ruas),Jalan Sukun I | Jalan Sukun II
+Banyumanik,33.74.11.007,Jl. Bumirejo,Sedang,1575.0,455.3,0.289,sebagian,9,induk (4 ruas),Jalan Bumirejo I | Jalan Bumirejo II | Jalan Bumirejo III | Jalan Bumirejo IV
+Banyumanik,33.74.11.066,Jl. Payung Mas,Baik,811.0,548.0,0.676,penuh,4,induk (4 ruas),Jalan Payung Mas I | Jalan Payung Mas II | Jalan Payung Mas III | Jalan Payung Mas IV
+Banyumanik,33.74.11.057,Jl. Ngasem,Sedang,1084.0,659.6,0.609,penuh,3,induk (3 ruas),Jalan Ngasem I | Jalan Ngasem II | Jalan Ngasem III
+Banyumanik,33.74.11.047,Jl. Kyai Mojo 1,Sedang,1766.0,150.1,0.085,sebagian,1,persis,Jalan Kyai Mojo I
+Banyumanik,33.74.11.046,Jl. Kyai Mojo,Sedang,829.0,846.9,1.022,penuh,1,persis,Jalan Kyai Mojo
+Banyumanik,33.74.11.020,Jl. Gotong Royong,Rusak Ringan,1376.0,455.8,0.331,sebagian,3,persis,Jalan Gotong Royong
+Banyumanik,33.74.11.044,Jl. Kp. Pentul 1,Sedang,219.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.070,Jl. Potrosari BD,Sedang,429.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.076,Jl. Rasamala Timur,Sedang,123.0,123.6,1.005,penuh,1,persis,Jalan Rasamala Timur
+Banyumanik,33.74.11.003,Jl. Blimbing,Sedang,458.0,302.8,0.661,penuh,3,mirip (0.97),Jalan Belimbing
+Banyumanik,33.74.11.054,Jl. Murbei Timur,Sedang,180.0,24.4,0.136,sebagian,1,persis,Jalan Murbei Timur
+Banyumanik,33.74.11.053,Jl. Murbei,Sedang,723.0,427.8,0.592,sebagian,2,persis,Jalan Murbei
+Banyumanik,33.74.11.086,Jl. Sendang Pentul,Sedang,364.0,995.5,2.735,berlebih,7,persis,Jalan Sendang Pentul
+Banyumanik,33.74.11.068,Jl. Potrosari 2,Sedang,214.0,213.4,0.997,penuh,1,persis,Jalan Potrosari II
+Banyumanik,33.74.11.001,Jl. Ace,Baik,420.0,425.1,1.012,penuh,1,persis,Jalan Ace
+Banyumanik,33.74.11.038,Jl. Kalipepe 4,Baik,802.0,338.1,0.422,sebagian,3,persis,Jalan Kalipepe IV
+Banyumanik,33.74.11.092,Jl. Taman Teuku Umar,Sedang,715.0,742.2,1.038,penuh,4,persis,Jalan Taman Teuku Umar
+Banyumanik,33.74.11.024,Jl. Jambu,Sedang,278.0,218.4,0.786,penuh,1,persis,Jalan Jambu
+Banyumanik,33.74.11.023,Jl. H. Suradi,Baik,706.0,694.2,0.983,penuh,1,persis,Jalan Haji Suradi
+Banyumanik,33.74.11.040,Jl. Kanfer Utara,Baik,168.0,154.3,0.918,penuh,1,persis,Jalan Kanfer Utara
+Banyumanik,33.74.11.102,Jl. Trunojoyo,Baik,332.0,309.0,0.931,penuh,2,induk (2 ruas),Jalan Trunojoyo III | Jalan Trunojoyo IV
+Banyumanik,33.74.11.035,Jl. Kalijaten,Baik,656.0,154.4,0.235,sebagian,1,persis,Jalan Kalijaten
+Banyumanik,33.74.11.106,Jl. Ulin Utara,Sedang,69.0,230.6,3.342,berlebih,1,persis,Jalan Ulin Utara
+Banyumanik,33.74.11.083,Jl. Sawunggaling 5,Baik,294.0,209.4,0.712,penuh,1,persis,Jalan Sawunggaling V
+Banyumanik,33.74.11.052,Jl. Mulawarman 2,Baik,413.0,712.0,1.724,berlebih,7,persis,Jalan Mulawarman II
+Banyumanik,33.74.11.110,Jl. Waru Timur 1,Sedang,430.0,434.3,1.01,penuh,2,persis,Jalan Waru Timur I
+Banyumanik,33.74.11.082,Jl. Sawunggaling 4,Baik,293.0,389.2,1.328,penuh,2,persis,Jalan Sawunggaling IV
+Banyumanik,33.74.11.013,Jl. Durian Utara 2,Baik,416.0,564.6,1.357,penuh,2,persis,Jalan Durian Utara II
+Banyumanik,33.74.11.005,Jl. Bukit Raya,Baik,1791.0,401.0,0.224,sebagian,4,persis,Jalan Bukit Raya
+Banyumanik,33.74.11.004,Jl. Bukit Kusuma,Sedang,402.0,396.5,0.986,penuh,1,persis,Jalan Bukit Kusuma
+Banyumanik,33.74.11.059,Jl. Ngesrep Timur 2,Sedang,253.0,255.7,1.011,penuh,1,persis,Jalan Ngesrep Timur II
+Banyumanik,33.74.11.061,Jl. Ngesrep Timur 4,Sedang,359.0,351.5,0.979,penuh,1,persis,Jalan Ngesrep Timur IV
+Banyumanik,33.74.11.060,Jl. Ngesrep Timur 3,Sedang,231.0,614.1,2.659,berlebih,6,persis,Jalan Ngesrep Timur III
+Banyumanik,33.74.11.064,Jl. Ngesrep Timur Dalam 3,Sedang,137.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.006,Jl. Bukit Umbul,Baik,413.0,619.7,1.501,penuh,3,persis,Jalan Bukit Umbul
+Banyumanik,33.74.11.025,Jl. Jangli Boulevard,Sedang,185.0,470.6,2.544,berlebih,1,persis,Jalan Jangli Boulevard
+Banyumanik,33.74.11.079,Jl. Sapta Marga,Baik,447.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.049,Jl. Merbau,Baik,611.0,123.1,0.201,sebagian,1,persis,Jalan Merbau
+Banyumanik,33.74.11.104,Jl. Tusam Timur,Sedang,551.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.107,Jl. Waru,Sedang,236.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.099,Jl. Tirto Agung,Baik,1318.0,1542.2,1.17,penuh,5,persis,Jalan Tirto Agung
+Banyumanik,33.74.11.039,Jl. Kanfer,Baik,612.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.002,Jl. Banjarsari Selatan,Sedang,676.0,811.8,1.201,penuh,4,persis,Jalan Banjarsari Selatan
+Banyumanik,33.74.11.103,Jl. Tusam,Sedang,719.0,356.2,0.495,sebagian,2,persis,Jalan Tusam
+Banyumanik,33.74.11.031,Jl. Jatimulyo,Baik,626.0,615.4,0.983,penuh,1,persis,Jalan Jatimulyo
+Banyumanik,33.74.11.030,Jl. Jatiluhur 1,Sedang,679.0,243.4,0.358,sebagian,2,persis,Jalan Jatiluhur I
+Banyumanik,33.74.11.090,Jl. Suren,Sedang,433.0,58.1,0.134,sebagian,1,persis,Jalan Suren
+Banyumanik,33.74.11.017,Jl. Gedawang,Baik,787.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.074,Jl. Puri Asri Perdana,Baik,466.0,223.5,0.48,sebagian,3,persis,Jalan Puri Asri Perdana
+Banyumanik,33.74.11.022,Jl. Grafika Utama,Sedang,484.0,315.3,0.651,penuh,2,persis,Jalan Grafika Utama
+Banyumanik,33.74.11.080,Jl. Sapta Prasetya,Baik,164.0,120.4,0.734,penuh,1,persis,Jalan Sapta Prasetya
+Banyumanik,33.74.11.077,Jl. Rengas,Baik,264.0,138.0,0.523,sebagian,2,persis,Jalan Rengas
+Banyumanik,33.74.11.105,Jl. Ulin,Sedang,262.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.081,Jl. Sawunggaling,Baik,247.0,62.4,0.253,sebagian,1,persis,Jalan Sawunggaling
+Banyumanik,33.74.11.109,Jl. Waru Timur,Sedang,377.0,171.9,0.456,sebagian,2,persis,Jalan Waru Timur
+Banyumanik,33.74.11.100,Jl. Tirto Husodo Barat 1,Baik,167.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.088,Jl. Srondol Bumi Indah,Sedang,200.0,4146.2,20.731,berlebih,56,persis,Jalan Srondol Bumi Indah
+Banyumanik,33.74.11.063,Jl. Ngesrep Timur Dalam 2,Sedang,231.0,342.5,1.482,penuh,4,mirip (1.00),Jalan Ngesrep Timur V Dalam II
+Banyumanik,33.74.11.043,Jl. Klentengsari,Baik,758.0,1065.6,1.406,penuh,3,persis,Jalan Klentengsari
+Banyumanik,33.74.11.095,Jl. Tanjung Sari 2,Sedang,299.0,388.3,1.299,penuh,3,persis,Jalan Tanjungsari II
+Banyumanik,33.74.11.097,Jl. Tanjung Sari 4,Sedang,338.0,339.9,1.006,penuh,1,persis,Jalan Tanjungsari IV
+Banyumanik,33.74.11.034,Jl. Jrobang,Baik,561.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.026,Jl. Jangli Perbalan,Baik,323.0,292.5,0.906,penuh,1,persis,Jalan Jangli Perbalan
+Banyumanik,33.74.11.096,Jl. Tanjung Sari 3,Sedang,228.0,227.8,0.999,penuh,1,persis,Jalan Tanjungsari III
+Banyumanik,33.74.11.051,Jl. Mulawarman 1,Baik,340.0,293.3,0.863,penuh,1,mirip (0.95),Jalan Mulawaran I
+Banyumanik,33.74.11.111,Jl. Watu Kaji,Sedang,1137.0,1318.0,1.159,penuh,12,induk (8 ruas),Jalan Watukaji I | Jalan Watukaji II | Jalan Watukaji IX | Jalan Watukaji V | Jalan Watukaji VI | Jalan Watukaji VII | Jalan Watukaji VIII | Jalan Watukaji X
+Banyumanik,33.74.11.029,Jl. Jatiluhur,Sedang,452.0,142.4,0.315,sebagian,1,persis,Jalan Jatiluhur
+Banyumanik,33.74.11.008,Jl. Cemara,Baik,727.0,539.8,0.742,penuh,5,persis,Jalan Cemara
+Banyumanik,33.74.11.050,Jl. Mr. Abdul Madjid Djojoadiningrat,Sedang,3557.0,808.5,0.227,sebagian,2,mirip (1.00),Jalan Mr. Abdul Majid Djojoadiningrat
+Banyumanik,33.74.11.091,Jl. Taman Setia Budi,Sedang,194.0,135.9,0.701,penuh,2,persis,Jalan Taman Setiabudi
+Banyumanik,33.74.11.009,Jl. Damar,Baik,534.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.014,Jl. Empu Sendok,Baik,1611.0,508.8,0.316,sebagian,4,induk (3 ruas),Jalan Empu Sendok I | Jalan Empu Sendok II | Jalan Empu Sendok III
+Banyumanik,33.74.11.067,Jl. Potrosari 1,Baik,301.0,781.9,2.598,berlebih,1,persis,Jalan Potrosari I
+Banyumanik,33.74.11.073,Jl. Pramuka,Baik,2351.0,2607.0,1.109,penuh,4,persis,Jalan Pramuka
+Banyumanik,33.74.11.084,Jl. Sawunggaling Selatan,Sedang,366.0,303.1,0.828,penuh,6,persis,Jalan Sawunggaling Selatan
+Banyumanik,33.74.11.042,Jl. Ki Narto Sabdo,Sedang,2251.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.085,Jl. Sendang Pakel,Sedang,347.0,923.0,2.66,berlebih,5,persis,Jalan Sendang Pakel
+Banyumanik,33.74.11.108,Jl. Waru Baru,Sedang,171.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.112,Jl. Wisma Prasetya,Baik,269.0,0,,,0,tidak cocok,
+Banyumanik,33.74.11.101,Jl. Tirto Husodo Timur,Sedang,404.0,447.4,1.107,penuh,4,mirip (0.97),Jalan Tirto Usodo Timur
+Banyumanik,33.74.11.098,Jl. Tembalang Selatan,Sedang,196.0,191.4,0.976,penuh,5,persis,Jalan Tembalang Selatan
+Candisari,33.74.08.016,Jl. Kesatrian,Baik,1160.0,1837.8,1.584,penuh,9,persis,Jalan Kesatrian
+Candisari,33.74.08.020,Jl. Sisimangaraja,Baik,2384.0,0,,,0,tidak cocok,
+Candisari,33.74.08.014,Jl. Kawi,Sedang,1167.0,0,,,0,tidak cocok,
+Candisari,33.74.08.029,Jl. Wilis,Baik,923.0,1052.7,1.141,penuh,3,persis,Jalan Wilis
+Candisari,33.74.08.021,Jl. Sriwijaya,Baik,1736.0,2806.0,1.616,berlebih,18,persis,Jalan Sriwijaya
+Candisari,33.74.08.012,Jl. Kagok,Sedang,240.0,355.7,1.482,penuh,2,persis,Jalan Kagok
+Candisari,33.74.08.015,Jl. Kawi 1,Baik,914.0,1347.9,1.475,penuh,9,persis,Jalan Kawi I
+Candisari,33.74.08.028,Jl. Ungaran,Sedang,144.0,129.7,0.9,penuh,1,persis,Jalan Ungaran
+Candisari,33.74.08.008,Jl. Dr. Wahidin Dalam,Sedang,346.0,0,,,0,tidak cocok,
+Candisari,33.74.08.017,Jl. Kesatrian RW. 07,Sedang,810.0,0,,,0,tidak cocok,
+Candisari,33.74.08.009,Jl. Genuk Sari,Sedang,271.0,117.2,0.432,sebagian,1,persis,Jalan Genuksari
+Candisari,33.74.08.002,Jl. Cinde,Baik,483.0,0,,,0,tidak cocok,
+Candisari,33.74.08.004,Jl. Cinde Barat 7,Sedang,130.0,167.0,1.285,penuh,2,persis,Jalan Cinde Barat VII
+Candisari,33.74.08.005,Jl. Cinde Barat 9,Sedang,518.0,399.3,0.771,penuh,3,persis,Jalan Cinde Barat IX
+Candisari,33.74.08.006,Jl. Cinde Selatan,Sedang,420.0,1027.9,2.447,berlebih,9,persis,Jalan Cinde Selatan
+Candisari,33.74.08.024,Jl. Tandang,Baik,542.0,650.1,1.199,penuh,5,persis,Jalan Tandang
+Candisari,33.74.08.010,Jl. Jangli,Sedang,1631.0,1465.1,0.898,penuh,5,persis,Jalan Jangli
+Candisari,33.74.08.013,Jl. Kasipah,Baik,1631.0,382.0,0.234,sebagian,1,persis,Jalan Kasipah
+Candisari,33.74.08.025,Jl. Tegalsari,Sedang,696.0,2275.7,3.27,berlebih,14,persis,Jalan Tegalsari
+Candisari,33.74.08.027,Jl. Tentara Pelajar,Baik,1020.0,1258.4,1.234,penuh,11,persis,Jalan Tentara Pelajar
+Candisari,33.74.08.003,Jl. Cinde Barat 5,Sedang,23.0,106.1,4.615,berlebih,1,persis,Jalan Cinde Barat V
+Candisari,33.74.08.019,Jl. Singotoro,Baik,641.0,1543.6,2.408,berlebih,17,persis,Jalan Singotoro
+Candisari,33.74.08.007,Jl. Diponegoro,Baik,1593.0,1681.2,1.055,penuh,6,persis,Jalan Diponegoro
+Candisari,33.74.08.026,Jl. Telomoyo,Baik,218.0,306.5,1.406,penuh,2,persis,Jalan Telomoyo
+Candisari,33.74.08.023,Jl. Tambora,Sedang,430.0,539.3,1.254,penuh,3,persis,Jalan Tambora
+Candisari,33.74.08.022,Jl. Tabanan,Sedang,227.0,224.9,0.991,penuh,1,persis,Jalan Tabanan
+Candisari,33.74.08.011,Jl. Jatingaleh 3,Sedang,790.0,793.8,1.005,penuh,1,persis,Jalan Jatingaleh III
+Candisari,33.74.08.018,Jl. Sanggung Barat,Baik,129.0,437.4,3.391,berlebih,1,persis,Jalan Sanggung Barat
+Candisari,33.74.08.001,Jl. Candi Golf Boulevard,Sedang,893.0,3469.6,3.885,berlebih,21,persis,Jalan Candi Golf Boulevard
+Gajah Mungkur,33.74.09.025,Jl. Pawiyatan Luhur,Baik,2736.0,2584.1,0.944,penuh,5,persis,Jalan Pawiyatan Luhur
+Gajah Mungkur,33.74.09.012,Jl. Kendeng,Sedang,1275.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.011,Jl. Kelud,Baik,1859.0,102.8,0.055,sebagian,1,persis,Jalan Kelud
+Gajah Mungkur,33.74.09.021,Jl. Menoreh,Baik,1637.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.040,Jl. Watu Lawang 4,Baik,1202.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.039,Jl. Veteran,Baik,1107.0,1186.1,1.071,penuh,8,persis,Jalan Veteran
+Gajah Mungkur,33.74.09.009,Jl. Jatidiri,Baik,835.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.002,Jl. Dempo,Baik,574.0,268.1,0.467,sebagian,4,persis,Jalan Dempo
+Gajah Mungkur,33.74.09.005,Jl. Gubernur Budiono,Sedang,302.0,308.5,1.021,penuh,2,persis,Jalan Gubernur Budiono
+Gajah Mungkur,33.74.09.014,Jl. Lamongan,Baik,811.0,33.6,0.041,sebagian,1,persis,Jalan Lamongan
+Gajah Mungkur,33.74.09.038,Jl. Tumpang,Baik,1159.0,935.2,0.807,penuh,1,persis,Jalan Tumpang
+Gajah Mungkur,33.74.09.030,Jl. Semeru,Baik,775.0,784.8,1.013,penuh,6,induk (6 ruas),Jalan Semeru I | Jalan Semeru II | Jalan Semeru IV | Jalan Semeru V | Jalan Semeru VI | Jalan Semeru VII
+Gajah Mungkur,33.74.09.026,Jl. Rajabasa,Baik,425.0,434.2,1.022,penuh,1,persis,Jalan Rajabasa
+Gajah Mungkur,33.74.09.001,Jl. Argopuro,Sedang,946.0,948.5,1.003,penuh,1,persis,Jalan Argopuro
+Gajah Mungkur,33.74.09.019,Jl. Lempongsari Barat 3,Baik,108.0,105.5,0.977,penuh,1,persis,Jalan Lempongsari Barat III
+Gajah Mungkur,33.74.09.018,Jl. Lempongsari Barat,Baik,222.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.017,Jl. Lempongsari 1,Baik,701.0,934.6,1.333,penuh,4,persis,Jalan Lempongsari I
+Gajah Mungkur,33.74.09.013,Jl. Kesambi,Sedang,191.0,201.0,1.052,penuh,1,persis,Jalan Kesambi
+Gajah Mungkur,33.74.09.020,Jl. Malabar,Baik,258.0,465.2,1.803,berlebih,3,persis,Jalan Malabar
+Gajah Mungkur,33.74.09.027,Jl. Raung,Baik,542.0,551.9,1.018,penuh,1,persis,Jalan Raung
+Gajah Mungkur,33.74.09.032,Jl. Slamet,Sedang,623.0,608.9,0.977,penuh,1,persis,Jalan Slamet
+Gajah Mungkur,33.74.09.006,Jl. Guntur,Baik,540.0,639.4,1.184,penuh,2,persis,Jalan Guntur
+Gajah Mungkur,33.74.09.016,Jl. Lempongsari,Baik,553.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.003,Jl. Dieng,Baik,254.0,261.9,1.031,penuh,1,persis,Jalan Dieng
+Gajah Mungkur,33.74.09.033,Jl. Sumbing,Sedang,867.0,866.7,1.0,penuh,2,persis,Jalan Sumbing
+Gajah Mungkur,33.74.09.031,Jl. Sindoro,Sedang,186.0,187.0,1.006,penuh,1,persis,Jalan Sindoro
+Gajah Mungkur,33.74.09.007,Jl. Gunung Sawo,Sedang,517.0,644.0,1.246,penuh,3,persis,Jalan Gunung Sawo
+Gajah Mungkur,33.74.09.022,Jl. Merapi,Baik,484.0,1690.0,3.492,berlebih,13,persis,Jalan Merapi
+Gajah Mungkur,33.74.09.004,Jl. Gajahmungkur Selatan,Sedang,696.0,206.7,0.297,sebagian,1,persis,Jalan Gajah Mungkur Selatan
+Gajah Mungkur,33.74.09.035,Jl. Taman Gajahmungkur,Baik,425.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.037,Jl. Tugu Suharto,Baik,217.0,0,,,0,tidak cocok,
+Gajah Mungkur,33.74.09.041,Jl. Wungkal,Baik,527.0,522.0,0.991,penuh,1,persis,Jalan Wungkal
+Gajah Mungkur,33.74.09.010,Jl. Karangrejo,Baik,1075.0,1202.1,1.118,penuh,2,persis,Jalan Karangrejo
+Gajah Mungkur,33.74.09.015,Jl. Lawu,Sedang,186.0,210.7,1.133,penuh,2,persis,Jalan Lawu
+Gajah Mungkur,33.74.09.034,Jl. Taman Diponegoro,Baik,373.0,322.9,0.866,penuh,5,persis,Jalan Taman Diponegoro
+Gajah Mungkur,33.74.09.036,Jl. Telaga Bodas,Sedang,1065.0,1056.9,0.992,penuh,5,persis,Jalan Telaga Bodas
+Gajah Mungkur,33.74.09.028,Jl. Rinjani,Sedang,1685.0,1690.0,1.003,penuh,3,persis,Jalan Rinjani
+Gajah Mungkur,33.74.09.029,Jl. Semboja,Baik,607.0,626.1,1.031,penuh,2,persis,Jalan Semboja
+Gajah Mungkur,33.74.09.023,Jl. Muria,Baik,257.0,438.9,1.708,berlebih,2,persis,Jalan Muria
+Gajah Mungkur,33.74.09.008,Jl. Indrapura,Sedang,530.0,523.7,0.988,penuh,2,persis,Jalan Indrapura
+Gajah Mungkur,33.74.09.024,Jl. Papandayan,Baik,1640.0,2881.2,1.757,berlebih,14,persis,Jalan Papandayan
+Gayamsari,33.74.04.027,Jl. Tanggungrejo,Baik,1175.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.022,Jl. Sawah Besar,Baik,2458.0,1474.9,0.6,penuh,2,persis,Jalan Sawah Besar
+Gayamsari,33.74.04.005,Jl. Gajah,Baik,2522.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.018,Jl. Medoho Permai,Sedang,464.0,456.0,0.983,penuh,1,persis,Jalan Medoho Permai
+Gayamsari,33.74.04.009,Jl. Jolotundo,Baik,745.0,702.0,0.942,penuh,7,persis,Jalan Jolotundo
+Gayamsari,33.74.04.008,Jl. Gempolsari 3,Sedang,977.0,881.4,0.902,penuh,4,persis,Jalan Gempolsari III
+Gayamsari,33.74.04.007,Jl. Gayamsari 1,Sedang,217.0,213.8,0.985,penuh,1,persis,Jalan Gayamsari I
+Gayamsari,33.74.04.021,Jl. Perum Ganesha,Sedang,257.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.002,Jl. Badak 5,Baik,696.0,856.5,1.231,penuh,2,persis,Jalan Badak V
+Gayamsari,33.74.04.012,Jl. Kelinci,Sedang,541.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.014,Jl. Kijang Utara,Sedang,307.0,306.8,1.0,penuh,1,persis,Jalan Kijang Utara
+Gayamsari,33.74.04.016,Jl. Medoho,Baik,742.0,308.7,0.416,sebagian,3,persis,Jalan Medoho
+Gayamsari,33.74.04.011,Jl. Kanguru,Sedang,1033.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.025,Jl. Tambakboyo,Baik,765.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.024,Jl. Tambakan,Sedang,521.0,601.7,1.155,penuh,5,persis,Jalan Tambakan
+Gayamsari,33.74.04.029,Jl. Unta,Baik,2772.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.026,Jl. Tanggul,Baik,790.0,728.6,0.922,penuh,7,persis,Jalan Tanggul
+Gayamsari,33.74.04.001,Jl. Badak,Baik,482.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.003,Jl. Banteng,Baik,581.0,491.8,0.847,penuh,1,persis,Jalan Banteng
+Gayamsari,33.74.04.006,Jl. Gajah Timur 4,Sedang,295.0,306.8,1.04,penuh,1,persis,Jalan Gajah Timur IV
+Gayamsari,33.74.04.010,Jl. Kali Sodor,Rusak Ringan,275.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.015,Jl. Komplek Pasar Waru,Sedang,593.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.004,Jl. Beruang,Baik,739.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.013,Jl. Kijang Selatan,Baik,363.0,365.5,1.007,penuh,1,persis,Jalan Kijang Selatan
+Gayamsari,33.74.04.023,Jl. Slamet Riyadi,Baik,989.0,964.5,0.975,penuh,4,persis,Jalan Slamet Riyadi
+Gayamsari,33.74.04.020,Jl. Pati Unus 7,Sedang,309.0,316.8,1.025,penuh,1,persis,Jalan Patiunus VII
+Gayamsari,33.74.04.017,Jl. Medoho 1,Baik,1122.0,832.4,0.742,penuh,6,persis,Jalan Medoho I
+Gayamsari,33.74.04.019,Jl. Pasar Waru,Sedang,1449.0,0,,,0,tidak cocok,
+Gayamsari,33.74.04.028,Jl. Tanggungrejo IPLT,Sedang,988.0,0,,,0,tidak cocok,
+Genuk,33.74.05.020,Jl. Muktiharjo,Baik,4035.0,0,,,0,tidak cocok,
+Genuk,33.74.05.019,Jl. Kyai Ahmad,Baik,1878.0,1449.6,0.772,penuh,3,mirip (0.95),Jalan Kyai Achmad
+Genuk,33.74.05.016,Jl. Ki Senari,Baik,1901.0,0,,,0,tidak cocok,
+Genuk,33.74.05.023,Jl. Ratan Cilik,Sedang,2433.0,2023.7,0.832,penuh,1,persis,Jalan Ratan Cilik
+Genuk,33.74.05.041,Jl. Wolter Monginsidi,Baik,7922.0,195.7,0.025,sebagian,6,persis,Wolter Monginsidi
+Genuk,33.74.05.017,Jl. Kudu,Baik,2656.0,0,,,0,tidak cocok,
+Genuk,33.74.05.002,Jl. Babon Inspeksi Timur,Rusak Ringan,8122.0,0,,,0,tidak cocok,
+Genuk,33.74.05.028,Jl. Sedayu Tugu,Sedang,3073.0,570.9,0.186,sebagian,1,persis,Jalan Sedayu Tugu
+Genuk,33.74.05.033,Jl. Terboyo,Sedang,1345.0,0,,,0,tidak cocok,
+Genuk,33.74.05.031,Jl. Sendang Indah,Baik,324.0,281.2,0.868,penuh,1,persis,Jalan Sendang Indah
+Genuk,33.74.05.009,Jl. Dong Biru,Baik,1074.0,1106.2,1.03,penuh,4,persis,Jalan Dong Biru
+Genuk,33.74.05.035,Jl. Trimulyo,Sedang,621.0,0,,,0,tidak cocok,
+Genuk,33.74.05.011,Jl. Jempono,Baik,714.0,546.5,0.765,penuh,2,persis,Jalan Jempono
+Genuk,33.74.05.039,Jl. Widuri 3,Baik,793.0,844.8,1.065,penuh,2,persis,Jalan Widuri III
+Genuk,33.74.05.007,Jl. Bugen Polaman,Baik,788.0,0,,,0,tidak cocok,
+Genuk,33.74.05.022,Jl. Padi Tengah,Baik,448.0,0,,,0,tidak cocok,
+Genuk,33.74.05.014,Jl. Kapas Tengah,Baik,501.0,0,,,0,tidak cocok,
+Genuk,33.74.05.013,Jl. Kapas,Baik,603.0,0,,,0,tidak cocok,
+Genuk,33.74.05.010,Jl. Gebanganom,Baik,1603.0,192.7,0.12,sebagian,1,induk,Jalan Gebang Anom I
+Genuk,33.74.05.012,Jl. K.H. Zainuddin,Baik,2235.0,505.6,0.226,sebagian,2,mirip (0.96),Jalan K.H. Zainudin
+Genuk,33.74.05.027,Jl. Sedayu Sawo 1,Baik,572.0,0,,,0,tidak cocok,
+Genuk,33.74.05.004,Jl. Banget Prasetya,Baik,235.0,0,,,0,tidak cocok,
+Genuk,33.74.05.030,Jl. Sembungharjo Masjid Lama,Baik,717.0,0,,,0,tidak cocok,
+Genuk,33.74.05.032,Jl. Sumur Adem,Baik,1033.0,780.3,0.755,penuh,1,persis,Jalan Sumur Adem
+Genuk,33.74.05.037,Jl. Widuri 1,Sedang,653.0,579.8,0.888,penuh,1,persis,Jalan Widuri I
+Genuk,33.74.05.038,Jl. Widuri 2,Baik,626.0,720.0,1.15,penuh,2,persis,Jalan Widuri II
+Genuk,33.74.05.029,Jl. Sembungharjo,Baik,276.0,0,,,0,tidak cocok,
+Genuk,33.74.05.026,Jl. Sedayu Sawo,Sedang,615.0,0,,,0,tidak cocok,
+Genuk,33.74.05.015,Jl. Kapas Utara,Baik,213.0,0,,,0,tidak cocok,
+Genuk,33.74.05.018,Jl. Kudu Baru,Sedang,1181.0,0,,,0,tidak cocok,
+Genuk,33.74.05.021,Jl. Padi,Baik,1505.0,0,,,0,tidak cocok,
+Genuk,33.74.05.034,Jl. TPU Banjardowo,Baik,366.0,0,,,0,tidak cocok,
+Genuk,33.74.05.024,Jl. Saleh,Baik,351.0,0,,,0,tidak cocok,
+Genuk,33.74.05.036,Jl. Widuri,Baik,328.0,0,,,0,tidak cocok,
+Genuk,33.74.05.025,Jl. Sapi Watu,Baik,460.0,0,,,0,tidak cocok,
+Genuk,33.74.05.001,Jl. Babon Inspeksi Barat,Rusak Berat,3497.0,0,,,0,tidak cocok,
+Genuk,33.74.05.003,Jl. Babon Inspeksi Utara,Sedang,3962.0,0,,,0,tidak cocok,
+Genuk,33.74.05.008,Jl. Cemara,Baik,737.0,539.8,0.732,penuh,5,persis,Jalan Cemara
+Genuk,33.74.05.005,Jl. Banget Prasetya 4,Baik,180.0,96.8,0.538,sebagian,2,persis,Jalan Banget Prasetya 4
+Genuk,33.74.05.006,Jl. Bangetayu Wetan,Baik,4827.0,0,,,0,tidak cocok,
+Genuk,33.74.05.040,Jl. Widuri Krajan,Sedang,362.0,363.7,1.005,penuh,1,persis,Jalan Widuri Krajan
+Genuk,33.74.05.042,Jl. Wolter Monginsidi Lama,Baik,401.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.028,Jl. Mangunsari,Sedang,2183.0,675.0,0.309,sebagian,4,persis,Jalan Mangunsari
+Gunung Pati,33.74.12.042,Jl. Salakan,Sedang,613.0,533.3,0.87,penuh,7,induk (6 ruas),Jalan Salakan I | Jalan Salakan II | Jalan Salakan III | Jalan Salakan IV | Jalan Salakan V | Jalan Salakan VI
+Gunung Pati,33.74.12.008,Jl. Cepoko 3,Baik,715.0,309.6,0.433,sebagian,1,persis,Jalan Cepoko III
+Gunung Pati,33.74.12.033,Jl. Muntal,Baik,2965.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.049,Jl. Siwogo,Sedang,1587.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.039,Jl. Plalangan,Sedang,3408.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.024,Jl. Kol. R. Warsito Soegiarto,Baik,9770.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.041,Jl. Randusari,Sedang,1757.0,587.3,0.334,sebagian,6,induk (5 ruas),Jalan Randusari 3 | Jalan Randusari 4 | Jalan Randusari 5 | Jalan Randusari 7 | Jalan Randusari I
+Gunung Pati,33.74.12.030,Jl. Morokono,Sedang,1480.0,900.7,0.609,penuh,1,persis,Jalan Morokono
+Gunung Pati,33.74.12.015,Jl. Jedung,Baik,1258.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.014,Jl. Jatirejo,Sedang,1176.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.006,Jl. Cepoko 1,Baik,230.0,225.3,0.98,penuh,1,persis,Jalan Cepoko I
+Gunung Pati,33.74.12.009,Jl. Cerme 2,Baik,260.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.046,Jl. SIbayan,Baik,501.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.027,Jl. Kyai Sudak,Baik,525.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.017,Jl. Jedung Utara,Baik,712.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.040,Jl. Pongangan,Sedang,1387.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.053,Jl. Talun Kacang,Sedang,1183.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.037,Jl. Pengkol,Sedang,1103.0,107.0,0.097,sebagian,1,persis,Jalan Pengkol
+Gunung Pati,33.74.12.004,Jl. Bendosari,Rusak Ringan,788.0,493.1,0.626,penuh,4,induk (4 ruas),Jalan Bendosari 5 | Jalan Bendosari 6 | Jalan Bendosari 7 | Jalan bendosari 4
+Gunung Pati,33.74.12.013,Jl. Gribig,Sedang,562.0,565.2,1.006,penuh,1,persis,Jalan Gribig
+Gunung Pati,33.74.12.018,Jl. Kalialang Lama,Sedang,680.0,720.6,1.06,penuh,8,persis,Jalan Kalialang Lama
+Gunung Pati,33.74.12.007,Jl. Cepoko 2,Baik,223.0,425.3,1.907,berlebih,1,persis,Jalan Cepoko II
+Gunung Pati,33.74.12.022,Jl. Kliwonan Selatan,Baik,112.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.025,Jl. Kolonel H. R. Hadijanto,Baik,4649.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.031,Jl. Mr. Koesoebiyono Tjondro Wibowo,Baik,6472.0,1567.4,0.242,sebagian,1,mirip (0.99),Jalan Mr. Koesbiyono Tjondrowibowo
+Gunung Pati,33.74.12.050,Jl. Sumur Gunung,Sedang,1085.0,4787.9,4.413,berlebih,2,persis,Jalan Sumur Gunung
+Gunung Pati,33.74.12.010,Jl. Dampyak,Sedang,883.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.038,Jl. Perbalan,Sedang,409.0,141.9,0.347,sebagian,2,persis,Jalan Perbalan
+Gunung Pati,33.74.12.051,Jl. Sumur Jurang,Sedang,358.0,271.9,0.76,penuh,4,persis,Jalan Sumur Jurang
+Gunung Pati,33.74.12.032,Jl. Mudal,Sedang,603.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.036,Jl. Pakintelan Baru,Sedang,1068.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.001,Jl. Ampel Gading,Baik,2258.0,438.0,0.194,sebagian,4,persis,Jalan Ampel Gading
+Gunung Pati,33.74.12.019,Jl. Kalisegoro,Baik,1586.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.026,Jl. Kyai Bancak,Baik,862.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.054,Jl. Taman Siswa,Baik,1873.0,1901.3,1.015,penuh,16,persis,Jalan Taman Siswa
+Gunung Pati,33.74.12.020,Jl. Kalisegoro 1,Baik,501.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.045,Jl. Sengkuyung,Sedang,1240.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.003,Jl. Bangkong,Sedang,1758.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.055,Jl. Tinjomoyo,Sedang,1906.0,583.4,0.306,sebagian,2,persis,Jalan Tinjomoyo
+Gunung Pati,33.74.12.052,Jl. Talang Bengkok,Baik,615.0,381.5,0.62,penuh,3,persis,Jalan Talang Bengkok
+Gunung Pati,33.74.12.047,Jl. Sikrangkeng,Sedang,518.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.002,Jl. Ampel Gading 3,Sedang,2022.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.035,Jl. Pakintelan,Sedang,2600.0,1805.4,0.694,penuh,8,induk (2 ruas),Jalan Pakintelan II | Jalan Pakintelan III
+Gunung Pati,33.74.12.056,Jl. Watusari,Sedang,1280.0,4757.1,3.716,berlebih,23,persis,Jalan Watusari
+Gunung Pati,33.74.12.044,Jl. Sekar Gading Barat,Sedang,743.0,655.0,0.882,penuh,1,persis,Jalan Sekar Gading Barat
+Gunung Pati,33.74.12.043,Jl. Sekalongan,Baik,1250.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.005,Jl. Cepoko,Baik,3096.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.016,Jl. Jedung Timur,Sedang,1255.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.011,Jl. Dewi Sartika,Sedang,1710.0,1608.9,0.941,penuh,9,persis,Jalan Dewi Sartika
+Gunung Pati,33.74.12.023,Jl. Kliwonan Utara,Baik,309.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.029,Jl. Masjid,Baik,98.0,460.2,4.696,berlebih,3,persis,Jalan Masjid
+Gunung Pati,33.74.12.021,Jl. Kandri Barat,Baik,1100.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.048,Jl. Sikuwuk,Sedang,1056.0,0,,,0,tidak cocok,
+Gunung Pati,33.74.12.012,Jl. Dukuh,Sedang,1796.0,590.9,0.329,sebagian,2,persis,Jalan Dukuh
+Gunung Pati,33.74.12.034,Jl. Nongko Sawit,Sedang,1403.0,134.1,0.096,sebagian,1,persis,Jalan Nongko Sawit
+Mijen,33.74.14.011,Jl. Gang Musholla,Rusak Ringan,466.0,82.7,0.178,sebagian,1,persis,Gang Musholla
+Mijen,33.74.14.001,Jl. Amarta,Sedang,1618.0,157.2,0.097,sebagian,1,persis,Jalan Amarta
+Mijen,33.74.14.024,Jl. Kuripan,Baik,2922.0,5580.8,1.91,berlebih,38,persis,Jalan Kuripan
+Mijen,33.74.14.017,Jl. Kampung Jambon,Sedang,1913.0,0,,,0,tidak cocok,
+Mijen,33.74.14.023,Jl. Kongkong,Baik,2083.0,0,,,0,tidak cocok,
+Mijen,33.74.14.032,Jl. Sapen,Rusak Ringan,1315.0,662.4,0.504,sebagian,2,persis,Jalan Sapen
+Mijen,33.74.14.040,Jl. Wonoyoso,Sedang,721.0,0,,,0,tidak cocok,
+Mijen,33.74.14.004,Jl. Banjarsari,Sedang,774.0,160.0,0.207,sebagian,1,persis,Jalan Banjarsari
+Mijen,33.74.14.007,Jl. Dawung,Sedang,1386.0,271.9,0.196,sebagian,2,persis,Jalan Dawung
+Mijen,33.74.14.033,Jl. Sidodadi,Baik,1211.0,0,,,0,tidak cocok,
+Mijen,33.74.14.009,Jl. Duduhan,Rusak Ringan,834.0,0,,,0,tidak cocok,
+Mijen,33.74.14.016,Jl. Kali Getas,Baik,1783.0,0,,,0,tidak cocok,
+Mijen,33.74.14.035,Jl. Sodong,Rusak Ringan,1568.0,0,,,0,tidak cocok,
+Mijen,33.74.14.013,Jl. Jatibarang,Baik,5759.0,2800.2,0.486,sebagian,3,persis,Jalan Jatibarang
+Mijen,33.74.14.038,Jl. Wonolopo,Sedang,1772.0,417.8,0.236,sebagian,3,persis,Jalan Wonolopo
+Mijen,33.74.14.010,Jl. Gabu,Sedang,2206.0,0,,,0,tidak cocok,
+Mijen,33.74.14.027,Jl. Perkebunan Pesantren,Rusak Ringan,3418.0,0,,,0,tidak cocok,
+Mijen,33.74.14.006,Jl. Bubakan Kliris,Sedang,1624.0,0,,,0,tidak cocok,
+Mijen,33.74.14.018,Jl. Karangmalang,Rusak Ringan,1673.0,3118.4,1.864,berlebih,13,persis,Jalan Karangmalang
+Mijen,33.74.14.020,Jl. Kedung Begal,Baik,724.0,0,,,0,tidak cocok,
+Mijen,33.74.14.030,Jl. Robyong,Baik,3049.0,0,,,0,tidak cocok,
+Mijen,33.74.14.028,Jl. Purwosari,Baik,2422.0,0,,,0,tidak cocok,
+Mijen,33.74.14.008,Jl. Dudak,Rusak Ringan,1044.0,0,,,0,tidak cocok,
+Mijen,33.74.14.005,Jl. Bentur,Sedang,906.0,0,,,0,tidak cocok,
+Mijen,33.74.14.025,Jl. Kyai Aji,Rusak Ringan,1712.0,0,,,0,tidak cocok,
+Mijen,33.74.14.015,Jl. Jatisari,Rusak Ringan,1605.0,1592.3,0.992,penuh,10,persis,Jalan Jatisari
+Mijen,33.74.14.039,Jl. Wonolopo 1,Sedang,818.0,0,,,0,tidak cocok,
+Mijen,33.74.14.002,Jl. Arjuna Semanding,Sedang,1153.0,0,,,0,tidak cocok,
+Mijen,33.74.14.031,Jl. Robyong 1,Baik,604.0,0,,,0,tidak cocok,
+Mijen,33.74.14.014,Jl. Jatikalangan,Baik,1473.0,0,,,0,tidak cocok,
+Mijen,33.74.14.021,Jl. Kedung Jangan,Rusak Ringan,1352.0,0,,,0,tidak cocok,
+Mijen,33.74.14.019,Jl. Kebonroto,Sedang,1678.0,884.3,0.527,sebagian,9,persis,Jalan Kebonroto
+Mijen,33.74.14.034,Jl. Sikretek,Sedang,491.0,0,,,0,tidak cocok,
+Mijen,33.74.14.026,Jl. Palapa,Baik,796.0,0,,,0,tidak cocok,
+Mijen,33.74.14.029,Jl. R.M. Hadi Subeno Sosrowardoyo,Baik,10006.0,0,,,0,tidak cocok,
+Mijen,33.74.14.003,Jl. Bandung Sari,Baik,2728.0,0,,,0,tidak cocok,
+Mijen,33.74.14.022,Jl. Kemantren,Rusak Ringan,2931.0,0,,,0,tidak cocok,
+Mijen,33.74.14.036,Jl. Taman Durian (Sabara Polda),Sedang,768.0,0,,,0,tidak cocok,
+Mijen,33.74.14.037,Jl. Untung Suropati,Baik,3875.0,151.8,0.039,sebagian,1,persis,Jalan Untung Suropati
+Mijen,33.74.14.012,Jl. Internal Pemerintahan Kota Semarang,Baik,824.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.015,Jl. Kampung Palir,Sedang,1214.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.019,Jl. Kemantren,Rusak Ringan,467.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.032,Jl. Rowosari 1,Sedang,956.0,692.2,0.724,penuh,2,persis,Jalan Rowosari I
+Ngaliyan,33.74.15.028,Jl. Plumbon 3,Sedang,794.0,629.7,0.793,penuh,1,persis,Jalan Plumbon III
+Ngaliyan,33.74.15.031,Jl. Purwoyoso 1,Sedang,464.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.039,Jl. Sriwidodo Selatan,Rusak Ringan,534.0,535.9,1.003,penuh,1,persis,Jalan Sriwidodo Selatan
+Ngaliyan,33.74.15.036,Jl. Srikaton Tengah,Sedang,308.0,310.6,1.009,penuh,1,persis,Jalan Srikaton Tengah
+Ngaliyan,33.74.15.035,Jl. Srikaton Barat 2,Rusak Ringan,71.0,312.5,4.401,berlebih,2,persis,Jalan Srikaton Barat II
+Ngaliyan,33.74.15.034,Jl. Srikaton,Sedang,420.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.026,Jl. Palir,Sedang,2638.0,2638.7,1.0,penuh,3,persis,Jalan Palir
+Ngaliyan,33.74.15.020,Jl. Koptu Suyono,Sedang,3238.0,1221.2,0.377,sebagian,3,persis,Jalan Koptu Suyono
+Ngaliyan,33.74.15.007,Jl. Gondorio,Sedang,4452.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.022,Jl. Kyai Padak,Sedang,2291.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.033,Jl. Selo Kretek,Sedang,755.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.009,Jl. Grujukan,Sedang,1235.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.025,Jl. Mr. Moch Ichsan,Baik,3034.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.023,Jl. Letkol Soeparno,Sedang,1373.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.021,Jl. KRT Wongsonegoro,Sedang,3119.0,2503.9,0.803,penuh,11,persis,Jalan KRT Wongsonegoro
+Ngaliyan,33.74.15.040,Jl. Tambak Aji,Sedang,1014.0,319.3,0.315,sebagian,4,persis,Jalan Tambak Aji
+Ngaliyan,33.74.15.011,Jl. Jambu,Baik,546.0,218.4,0.4,sebagian,1,persis,Jalan Jambu
+Ngaliyan,33.74.15.008,Jl. Gondorio - Beringin (Bukit Gondorio),Baik,1607.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.012,Jl. Jludang,Baik,1484.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.014,Jl. Kalikangkung,Sedang,2124.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.001,Jl. Banjaran,Rusak Ringan,1653.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.041,Jl. Wates,Sedang,1735.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.006,Jl. Gatot Subroto,Sedang,2984.0,5229.8,1.753,berlebih,15,persis,Jalan Gatot Subroto
+Ngaliyan,33.74.15.042,Jl. Wisma Sari,Sedang,389.0,1489.6,3.829,berlebih,18,induk (9 ruas),Jalan Wismasari I | Jalan Wismasari II | Jalan Wismasari III | Jalan Wismasari IV | Jalan Wismasari IX | Jalan Wismasari V | Jalan Wismasari VI | Jalan Wismasari VII | Jalan Wismasari X
+Ngaliyan,33.74.15.010,Jl. Honggowongso,Sedang,1913.0,533.6,0.279,sebagian,1,persis,Jalan Honggowongso
+Ngaliyan,33.74.15.043,Jl. Wisma Sari Selatan,Sedang,482.0,641.1,1.33,penuh,2,persis,Jalan Wismasari Selatan
+Ngaliyan,33.74.15.030,Jl. Pucung,Sedang,563.0,1738.0,3.087,berlebih,11,persis,Jalan Pucung
+Ngaliyan,33.74.15.029,Jl. Prof. Dr. Hamka,Baik,2503.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.016,Jl. Karonsih,Baik,441.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.005,Jl. Candi Prambanan,Baik,770.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.027,Jl. Panembahan Senopati,Baik,1256.0,1415.3,1.127,penuh,4,persis,Jalan Panembahan Senopati
+Ngaliyan,33.74.15.044,Jl. Wisma Sari Utara,Sedang,218.0,405.5,1.86,berlebih,5,persis,Jalan Wismasari Utara
+Ngaliyan,33.74.15.018,Jl. Karonsih Selatan 9,Sedang,486.0,133.6,0.275,sebagian,1,persis,Jalan Karonsih Selatan IX
+Ngaliyan,33.74.15.017,Jl. Karonsih Selatan,Rusak Ringan,250.0,202.5,0.81,penuh,1,persis,Jalan Karonsih Selatan
+Ngaliyan,33.74.15.024,Jl. Menuju Mapolsek,Sedang,214.0,0,,,0,tidak cocok,
+Ngaliyan,33.74.15.002,Jl. Candi Pawon Selatan 10,Sedang,153.0,149.4,0.977,penuh,1,persis,Jalan Candi Pawon Selatan X
+Ngaliyan,33.74.15.003,Jl. Candi Pawon Selatan 9,Sedang,200.0,294.5,1.472,penuh,2,persis,Jalan Candi Pawon Selatan IX
+Ngaliyan,33.74.15.037,Jl. Srikaton Timur 1,Sedang,579.0,1310.6,2.264,berlebih,9,persis,Jalan Srikaton Timur I
+Ngaliyan,33.74.15.038,Jl. Srikaton Utara 4,Sedang,68.0,334.9,4.925,berlebih,2,persis,Jalan Srikaton Utara IV
+Ngaliyan,33.74.15.013,Jl. Kaliancar,Baik,919.0,1401.6,1.525,penuh,3,persis,Jalan Kaliancar
+Ngaliyan,33.74.15.004,Jl. Candi Penataran,Sedang,546.0,572.0,1.048,penuh,4,persis,Jalan Candi Penataran
+Pedurungan,33.74.06.041,Jl. Parang Kembang,Baik,337.0,1488.5,4.417,berlebih,13,induk (10 ruas),Jalan Parang Kembang I | Jalan Parang Kembang II | Jalan Parang Kembang III | Jalan Parang Kembang IV | Jalan Parang Kembang IX | Jalan Parang Kembang V | Jalan Parang Kembang VI | Jalan Parang Kembang VII | Jalan Parang Kembang VIII | Jalan Parang Kembang X
+Pedurungan,33.74.06.040,Jl. Parang Barong,Sedang,495.0,1084.6,2.191,berlebih,7,induk (7 ruas),Jalan Parang Barong I | Jalan Parang Barong II | Jalan Parang Barong III | Jalan Parang Barong IV | Jalan Parang Barong V | Jalan Parang Barong VI | Jalan Parang Barong VII
+Pedurungan,33.74.06.062,Jl. Sendang Sari Utara,Sedang,284.0,128.0,0.451,sebagian,1,persis,Jalan Sendangsari Utara
+Pedurungan,33.74.06.072,Jl. Singa Utara,Baik,596.0,604.4,1.014,penuh,1,persis,Jalan Singa Utara
+Pedurungan,33.74.06.034,Jl. Muktiharjo Kidul,Sedang,754.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.094,Jl. Tlogosari,Baik,3697.0,312.4,0.084,sebagian,2,persis,Jalan Tlogosari
+Pedurungan,33.74.06.073,Jl. Soekarno - Hatta,Baik,5242.0,11730.9,2.238,berlebih,9,persis,Jalan Soekarno Hatta | Jalan Soekarno-Hatta
+Pedurungan,33.74.06.008,Jl. Gajah Birowo,Sedang,356.0,949.1,2.666,berlebih,4,persis,Jalan Gajah Birowo
+Pedurungan,33.74.06.020,Jl. Karangingas,Baik,616.0,440.5,0.715,penuh,3,persis,Jalan Karangingas
+Pedurungan,33.74.06.044,Jl. Parang Kusumo,Baik,389.0,1620.9,4.167,berlebih,12,induk (10 ruas),Jalan Parang Kusumo I | Jalan Parang Kusumo II | Jalan Parang Kusumo III | Jalan Parang Kusumo IV | Jalan Parang Kusumo IX | Jalan Parang Kusumo V | Jalan Parang Kusumo VI | Jalan Parang Kusumo VII | Jalan Parang Kusumo VIII | Jalan Parang Kusumo X
+Pedurungan,33.74.06.061,Jl. Satrio Wibowo 1,Baik,613.0,613.7,1.001,penuh,2,persis,Jalan Satrio Wibowo I
+Pedurungan,33.74.06.064,Jl. Sendang Utara,Baik,322.0,279.0,0.867,penuh,1,persis,Jalan Sendang Utara
+Pedurungan,33.74.06.030,Jl. Lumbungsari,Baik,365.0,796.6,2.183,berlebih,9,induk (6 ruas),Jalan Lumbungsari I | Jalan Lumbungsari II | Jalan Lumbungsari III | Jalan Lumbungsari IV | Jalan Lumbungsari V | Jalan Lumbungsari VI
+Pedurungan,33.74.06.066,Jl. Sendangguwo,Baik,364.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.071,Jl. Singa,Sedang,215.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.036,Jl. Muwardi Timur,Baik,452.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.076,Jl. Supriyadi,Baik,1680.0,3386.5,2.016,berlebih,4,persis,Jalan Supriyadi
+Pedurungan,33.74.06.018,Jl. Karanganyar Barat,Sedang,441.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.031,Jl. Malangsari,Sedang,655.0,655.6,1.001,penuh,1,persis,Jalan Malangsari
+Pedurungan,33.74.06.063,Jl. Sendang Sari Utara 1,Baik,174.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.035,Jl. Muwardi,Sedang,750.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.016,Jl. Kalicari Barat,Baik,314.0,254.0,0.809,penuh,3,persis,Jalan Kalicari Barat
+Pedurungan,33.74.06.042,Jl. Parang Kesit,Sedang,212.0,1152.2,5.435,berlebih,8,induk (8 ruas),Jalan Parangkesit I | Jalan Parangkesit II | Jalan Parangkesit III | Jalan Parangkesit IV | Jalan Parangkesit V | Jalan Parangkesit VI | Jalan Parangkesit VII | Jalan Parangkesit VIII
+Pedurungan,33.74.06.065,Jl. Sendang Utara 3,Sedang,1422.0,1478.5,1.04,penuh,6,persis,Jalan Sendang Utara III
+Pedurungan,33.74.06.005,Jl. Dempel Kidul,Baik,399.0,407.2,1.021,penuh,1,persis,Jalan Dempel Kidul
+Pedurungan,33.74.06.006,Jl. Dempel Lor,Sedang,1376.0,980.8,0.713,penuh,2,persis,Jalan Dempel Lor
+Pedurungan,33.74.06.007,Jl. Fatmawati,Baik,2810.0,2027.8,0.722,penuh,7,persis,Jalan Fatmawati
+Pedurungan,33.74.06.059,Jl. Sapta Prasetya Selatan,Baik,229.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.022,Jl. Karanglo 1,Sedang,613.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.003,Jl. Blancir,Baik,2451.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.038,Jl. Palebon,Baik,851.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.026,Jl. Kyai Morang,Sedang,2182.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.019,Jl. Karanganyar Timur,Sedang,453.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.053,Jl. Plamongan Sari,Rusak Ringan,1725.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.015,Jl. K.H. Thohir,Baik,2252.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.028,Jl. Letjend. Sarwo Edhie Wibowo,Sedang,1337.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.078,Jl. Taman Majapahit,Rusak Ringan,936.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.091,Jl. Tlogo Putri,Baik,221.0,191.0,0.864,penuh,1,persis,Jalan Tlogo Putri
+Pedurungan,33.74.06.092,Jl. Tlogo Sarangan,Baik,296.0,301.7,1.019,penuh,1,persis,Jalan Tlogo Sarangan
+Pedurungan,33.74.06.090,Jl. Tlogo Intan,Sedang,187.0,125.2,0.669,penuh,1,persis,Jalan Tlogo Intan
+Pedurungan,33.74.06.021,Jl. Karanglo,Baik,440.0,216.3,0.492,sebagian,1,persis,Jalan Karanglo
+Pedurungan,33.74.06.058,Jl. Sapta Prasetya Barat 1,Baik,441.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.057,Jl. Sapta Prasetya,Baik,394.0,120.4,0.306,sebagian,1,persis,Jalan Sapta Prasetya
+Pedurungan,33.74.06.060,Jl. Sapta Prasetya Utara,Sedang,375.0,91.2,0.243,sebagian,2,mirip (0.95),Jalan Sapta Prasetya Utara VII A
+Pedurungan,33.74.06.024,Jl. Kukilo Mukti,Baik,247.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.074,Jl. Suhada,Baik,2002.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.025,Jl. Kyai Abdul Manan,Sedang,827.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.004,Jl. Bugen,Sedang,410.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.046,Jl. Pedurungan Tengah,Baik,772.0,146.1,0.189,sebagian,1,mirip (0.94),Jalan Pedurungan Tengah XI B
+Pedurungan,33.74.06.047,Jl. Pedurungan Tengah 4,Baik,383.0,382.9,1.0,penuh,1,persis,Jalan Pedurungan Tengah IV
+Pedurungan,33.74.06.052,Jl. Plamongan Permai 4,Baik,257.0,217.4,0.846,penuh,2,persis,Jalan Plamongan Permai IV
+Pedurungan,33.74.06.049,Jl. Plamongan Elok,Baik,334.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.077,Jl. Taman Liman Mukti 2,Baik,137.0,146.1,1.066,penuh,2,persis,Jalan Taman Liman Mukti II
+Pedurungan,33.74.06.048,Jl. Plamongan,Baik,277.0,33.6,0.121,sebagian,1,mirip (0.94),Jalan Lamongan
+Pedurungan,33.74.06.099,Jl. Zebra Tengah,Sedang,525.0,531.5,1.012,penuh,2,persis,Jalan Zebra Tengah
+Pedurungan,33.74.06.055,Jl. Purwomukti,Sedang,874.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.098,Jl. Wanara Timur,Baik,163.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.083,Jl. Taman Tlogomulyo,Baik,499.0,1997.3,4.003,berlebih,5,persis,Jalan Taman Tlogo Mulyo | Jalan Taman Tlogomulyo
+Pedurungan,33.74.06.085,Jl. Tanjungsari 1,Sedang,144.0,667.5,4.635,berlebih,4,persis,Jalan Tanjungsari I
+Pedurungan,33.74.06.075,Jl. Sunan Kalijaga,Baik,1552.0,1193.1,0.769,penuh,7,persis,Jalan Sunan Kalijaga | Sunan Kalijaga
+Pedurungan,33.74.06.043,Jl. Parang Klitik,Baik,215.0,718.8,3.343,berlebih,8,induk (6 ruas),Jalan Parang Klitik I | Jalan Parang Klitik II | Jalan Parang Klitik III | Jalan Parang Klitik IV | Jalan Parang Klitik V | Jalan Parang Klitik VI
+Pedurungan,33.74.06.011,Jl. Gemah Selatan 2,Baik,215.0,217.0,1.009,penuh,1,persis,Jalan Gemah Selatan II
+Pedurungan,33.74.06.097,Jl. Udan Riris 1,Sedang,388.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.013,Jl. Graha Mukti,Sedang,387.0,232.2,0.6,sebagian,1,persis,Jalan Graha Mukti
+Pedurungan,33.74.06.089,Jl. Tlogo Berlian,Sedang,88.0,55.3,0.629,penuh,1,persis,Jalan Tlogo Berlian
+Pedurungan,33.74.06.037,Jl. Nogososro,Baik,737.0,1476.7,2.004,berlebih,5,persis,Jalan Nogososro
+Pedurungan,33.74.06.096,Jl. Turangga Timur,Baik,178.0,181.8,1.022,penuh,1,persis,Jalan Turangga Timur
+Pedurungan,33.74.06.084,Jl. Tanggul Asri,Sedang,943.0,588.9,0.624,penuh,1,persis,Jalan Tanggul Asri
+Pedurungan,33.74.06.012,Jl. Gemah Timur,Baik,236.0,1400.9,5.936,berlebih,6,persis,Jalan Gemah Timur
+Pedurungan,33.74.06.009,Jl. Gemah,Baik,487.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.017,Jl. Kalicari Timur,Baik,288.0,228.1,0.792,penuh,4,persis,Jalan Kalicari Timur
+Pedurungan,33.74.06.067,Jl. Sendangguwo Baru,Baik,370.0,223.4,0.604,penuh,1,persis,Jalan Sendangguwo Baru
+Pedurungan,33.74.06.010,Jl. Gemah 5,Baik,228.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.027,Jl. Kyai Syakir,Baik,934.0,588.7,0.63,penuh,4,induk (3 ruas),Jalan Kyai Syakir I | Jalan Kyai Syakir II | Jalan Kyai Syakir III
+Pedurungan,33.74.06.093,Jl. Tlogomulyo,Sedang,1139.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.002,Jl. Arya Mukti Utara,Sedang,720.0,375.2,0.521,sebagian,1,persis,Jalan Arya Mukti Utara
+Pedurungan,33.74.06.014,Jl. Isbaryadi,Sedang,689.0,619.3,0.899,penuh,1,persis,Jalan Isbaryadi
+Pedurungan,33.74.06.086,Jl. Terminal Penggaron,Sedang,958.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.051,Jl. Plamongan Indah,Baik,671.0,1855.2,2.765,berlebih,7,persis,Jalan Plamongan Indah
+Pedurungan,33.74.06.050,Jl. Plamongan Elok 7,Sedang,261.0,141.9,0.544,sebagian,1,persis,Jalan Plamongan Elok VII
+Pedurungan,33.74.06.032,Jl. Margisari,Baik,185.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.029,Jl. Liman Mukti,Baik,131.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.100,Jl. Zebra Tengah 4,Baik,159.0,162.9,1.025,penuh,1,persis,Jalan Zebra Tengah IV
+Pedurungan,33.74.06.056,Jl. Sapen,Baik,865.0,662.4,0.766,penuh,2,persis,Jalan Sapen
+Pedurungan,33.74.06.045,Jl. Parang Sarpo,Baik,233.0,1673.3,7.182,berlebih,10,induk (9 ruas),Jalan Parang Sarpo I | Jalan Parang Sarpo II | Jalan Parang Sarpo III | Jalan Parang Sarpo IV | Jalan Parang Sarpo IX | Jalan Parang Sarpo V | Jalan Parang Sarpo VI | Jalan Parang Sarpo VII | Jalan Parang Sarpo VIII
+Pedurungan,33.74.06.039,Jl. Parang Baris,Baik,221.0,1396.0,6.317,berlebih,14,induk (8 ruas),Jalan Parang Baris I | Jalan Parang Baris II | Jalan Parang Baris III | Jalan Parang Baris IV | Jalan Parang Baris V | Jalan Parang Baris VI | Jalan Parang Baris VII | Jalan Parang Baris VIII
+Pedurungan,33.74.06.088,Jl. Tirto Mukti Timur 3,Sedang,98.0,94.3,0.962,penuh,1,persis,Jalan Tirto Mukti Timur III
+Pedurungan,33.74.06.087,Jl. Tirto Mukti Timur,Sedang,163.0,239.5,1.469,penuh,4,induk (3 ruas),Jalan Tirto Mukti Timur II | Jalan Tirto Mukti Timur III | Jalan Tirto Mukti Timur IV
+Pedurungan,33.74.06.033,Jl. Margisari Utara,Baik,98.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.001,Jl. Arya Mukti,Sedang,873.0,633.5,0.726,penuh,4,persis,Jalan Arya Mukti | Jalan Aryamukti
+Pedurungan,33.74.06.054,Jl. Plamongansari,Baik,253.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.023,Jl. Kudan,Sedang,810.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.068,Jl. Sendangmulyo - TVRI,Baik,535.0,0,,,0,tidak cocok,
+Pedurungan,33.74.06.095,Jl. Tlogotimun,Baik,387.0,1150.6,2.973,berlebih,6,induk (4 ruas),Jalan Tlogo Timun I | Jalan Tlogo Timun II | Jalan Tlogo Timun III | Jalan Tlogo Timun IV
+Pedurungan,33.74.06.080,Jl. Taman Suryo Kusumo 1,Baik,377.0,378.6,1.004,penuh,2,persis,Jalan Taman Suryokusumo I
+Pedurungan,33.74.06.081,Jl. Taman Suryo Kusumo 2,Baik,76.0,193.8,2.55,berlebih,2,persis,Jalan Taman Suryokusumo II
+Pedurungan,33.74.06.079,Jl. Taman Suryo Kusumo,Baik,104.0,371.7,3.574,berlebih,2,persis,Jalan Taman Suryokusumo
+Pedurungan,33.74.06.069,Jl. Sidodrajat 1,Baik,38.0,304.1,8.002,berlebih,1,persis,Jalan Sidodrajat I
+Pedurungan,33.74.06.070,Jl. Sidomulyo 1,Baik,37.0,196.7,5.316,berlebih,1,persis,Jalan Sidomulyo I
+Pedurungan,33.74.06.082,Jl. Taman Suryo Kusumo 4,Baik,376.0,111.6,0.297,sebagian,1,persis,Jalan Taman Suryokusumo IV
+Semarang Barat,33.74.13.010,Jl. Borobudur,Sedang,1096.0,207.5,0.189,sebagian,1,persis,Jalan Borobudur
+Semarang Barat,33.74.13.069,Jl. Sri Kuncoro 3,Sedang,616.0,578.3,0.939,penuh,1,persis,Jalan Sri Kuncoro III
+Semarang Barat,33.74.13.073,Jl. Sri Rejeki Dalam,Baik,687.0,1311.8,1.909,berlebih,11,induk (6 ruas),Jalan Sri Rejeki Dalam I | Jalan Sri Rejeki Dalam II | Jalan Sri Rejeki Dalam III | Jalan Sri Rejeki Dalam VI | Jalan Sri Rejeki Dalam VII | Jalan Sri Rejeki Dalam VIII
+Semarang Barat,33.74.13.082,Jl. Wologito Tengah,Sedang,459.0,62.6,0.136,sebagian,1,persis,Jalan Wologito Tengah
+Semarang Barat,33.74.13.078,Jl. Subali,Sedang,785.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.020,Jl. Dr. Suratmo,Baik,2308.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.001,Jl. Abdulrachman Saleh,Baik,3597.0,3587.8,0.997,penuh,3,mirip (1.00),Jalan Abdul Rahman Saleh
+Semarang Barat,33.74.13.023,Jl. Hanoman,Baik,1017.0,591.9,0.582,sebagian,4,induk (4 ruas),Jalan Hanoman IX | Jalan Hanoman VII | Jalan Hanoman VIII | Jalan Hanoman X
+Semarang Barat,33.74.13.077,Jl. Sriwibowo,Sedang,278.0,249.6,0.898,penuh,3,induk (3 ruas),Jalan Sriwibowo IV | Jalan Sriwibowo VII | Jalan Sriwibowo VIII
+Semarang Barat,33.74.13.024,Jl. Hilir,Sedang,1013.0,1002.3,0.989,penuh,2,persis,Jalan Hilir
+Semarang Barat,33.74.13.039,Jl. Muradi,Baik,1137.0,381.2,0.335,sebagian,3,persis,Jalan Muradi
+Semarang Barat,33.74.13.070,Jl. Sri Kuncoro Utara 3,Sedang,196.0,154.8,0.79,penuh,1,persis,Jalan Sri Kuncoro Utara III
+Semarang Barat,33.74.13.061,Jl. Rorojonggrang,Sedang,693.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.008,Jl. Ariloka,Sedang,797.0,795.8,0.999,penuh,3,persis,Jalan Ariloka
+Semarang Barat,33.74.13.048,Jl. Puspogiwang Barat,Sedang,492.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.051,Jl. Puspowarno,Baik,962.0,1641.5,1.706,berlebih,8,persis,Jalan Puspowarno
+Semarang Barat,33.74.13.044,Jl. Puspanjolo Selatan,Sedang,741.0,743.2,1.003,penuh,1,persis,Jalan Puspanjolo Selatan
+Semarang Barat,33.74.13.045,Jl. Puspanjolo Tengah,Sedang,702.0,700.4,0.998,penuh,1,persis,Jalan Puspanjolo Tengah
+Semarang Barat,33.74.13.030,Jl. Kenconowungu Tengah 1,Sedang,417.0,419.4,1.006,penuh,1,persis,Jalan Kenconowungu Tengah I
+Semarang Barat,33.74.13.004,Jl. Anjasmoro,Sedang,2347.0,1208.7,0.515,sebagian,6,induk (6 ruas),Jalan Anjasmoro I | Jalan Anjasmoro II | Jalan Anjasmoro III | Jalan Anjasmoro IV | Jalan Anjasmoro V | Jalan Anjasmoro VI
+Semarang Barat,33.74.13.043,Jl. Puspanjolo Barat,Baik,1305.0,166.6,0.128,sebagian,1,persis,Jalan Puspanjolo Barat
+Semarang Barat,33.74.13.050,Jl. Pusponjolo Barat 14,Rusak Ringan,847.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.072,Jl. Sri Rejeki 1,Sedang,362.0,351.4,0.971,penuh,1,persis,Jalan Sri Rejeki I
+Semarang Barat,33.74.13.047,Jl. Puspogiwang,Baik,386.0,957.6,2.481,berlebih,6,persis,Jalan Puspogiwang
+Semarang Barat,33.74.13.052,Jl. Puspowarno 1,Sedang,256.0,249.4,0.974,penuh,1,persis,Jalan Puspowarno I
+Semarang Barat,33.74.13.056,Jl. Puspowarno Tengah 1,Sedang,359.0,367.9,1.025,penuh,1,persis,Jalan Puspowarno Tengah I
+Semarang Barat,33.74.13.057,Jl. Puspowarno Tengah 2,Baik,337.0,337.9,1.003,penuh,1,persis,Jalan Puspowarno Tengah II
+Semarang Barat,33.74.13.055,Jl. Puspowarno Tengah,Sedang,684.0,669.8,0.979,penuh,5,persis,Jalan Puspowarno Tengah
+Semarang Barat,33.74.13.012,Jl. Cakrawala,Baik,232.0,196.6,0.848,penuh,1,persis,Jalan Cakrawala
+Semarang Barat,33.74.13.059,Jl. Ronggolawe Selatan,Baik,335.0,332.2,0.992,penuh,1,persis,Jalan Ronggolawe Selatan
+Semarang Barat,33.74.13.053,Jl. Puspowarno Selatan,Rusak Ringan,981.0,1138.0,1.16,penuh,5,persis,Jalan Puspowarno Selatan
+Semarang Barat,33.74.13.038,Jl. Mintojiwo Dalam,Sedang,297.0,1090.1,3.671,berlebih,4,persis,Jalan Mintojiwo Dalam
+Semarang Barat,33.74.13.031,Jl. Kumudasmoro,Baik,971.0,341.7,0.352,sebagian,1,persis,Jalan Kumudasmoro
+Semarang Barat,33.74.13.063,Jl. Sawojajar,Baik,709.0,706.8,0.997,penuh,3,persis,Jalan Sawojajar
+Semarang Barat,33.74.13.006,Jl. Anjasmoro 4,Baik,209.0,200.1,0.957,penuh,1,persis,Jalan Anjasmoro IV
+Semarang Barat,33.74.13.060,Jl. Ronggolawe Timur,Baik,466.0,463.2,0.994,penuh,1,persis,Jalan Ronggolawe Timur
+Semarang Barat,33.74.13.028,Jl. Kenconowungu 1,Rusak Ringan,425.0,400.4,0.942,penuh,2,persis,Jalan Kenconowungu I
+Semarang Barat,33.74.13.005,Jl. Anjasmoro 1,Baik,228.0,200.7,0.88,penuh,1,persis,Jalan Anjasmoro I
+Semarang Barat,33.74.13.025,Jl. Jembawan,Sedang,654.0,1062.5,1.625,berlebih,16,induk (9 ruas),Jalan Jembawan I | Jalan Jembawan II | Jalan Jembawan III | Jalan Jembawan IV | Jalan Jembawan IX | Jalan Jembawan VI | Jalan Jembawan VII | Jalan Jembawan VIII | Jalan Jembawan X
+Semarang Barat,33.74.13.036,Jl. Menuju Maron,Rusak Berat,3659.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.081,Jl. W. R. Supratman,Baik,2125.0,3907.4,1.839,berlebih,11,persis,Jalan WR. Supratman
+Semarang Barat,33.74.13.007,Jl. Aribuana,Sedang,450.0,454.9,1.011,penuh,1,persis,Jalan Aribuana
+Semarang Barat,33.74.13.058,Jl. Ronggolawe,Baik,493.0,726.1,1.473,penuh,6,induk (6 ruas),Jalan Ronggolawe I | Jalan Ronggolawe II | Jalan Ronggolawe III | Jalan Ronggolawe IV | Jalan Ronggolawe V | Jalan Ronggolawe VI
+Semarang Barat,33.74.13.041,Jl. Pamularsih,Baik,1922.0,2056.1,1.07,penuh,6,persis,Jalan Pamularsih
+Semarang Barat,33.74.13.067,Jl. Simongan,Baik,2409.0,1194.4,0.496,sebagian,3,persis,Jalan Simongan
+Semarang Barat,33.74.13.040,Jl. Ngemplak Simongan,Sedang,507.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.017,Jl. Damar Wulan 2,Sedang,634.0,419.6,0.662,penuh,1,persis,Jalan Damarwulan II
+Semarang Barat,33.74.13.027,Jl. Kenconowungu,Baik,873.0,157.2,0.18,sebagian,1,induk,Jalan Kenconowungu VI
+Semarang Barat,33.74.13.066,Jl. Semarang Indah Blok-C,Sedang,381.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.018,Jl. Damarwulan,Baik,414.0,212.0,0.512,sebagian,1,persis,Jalan Damarwulan
+Semarang Barat,33.74.13.037,Jl. Mintojiwo,Sedang,605.0,900.7,1.489,penuh,8,induk (5 ruas),Jalan Mintojiwo I | Jalan Mintojiwo II | Jalan Mintojiwo III | Jalan Mintojiwo IV | Jalan Mintojiwo V
+Semarang Barat,33.74.13.071,Jl. Sri Rejeki,Sedang,582.0,329.3,0.566,sebagian,1,persis,Jalan Sri Rejeki
+Semarang Barat,33.74.13.003,Jl. Amarta,Baik,390.0,157.2,0.403,sebagian,1,persis,Jalan Amarta
+Semarang Barat,33.74.13.014,Jl. Cokrokembang,Baik,336.0,524.4,1.561,penuh,2,persis,Jalan Cokrokembang
+Semarang Barat,33.74.13.013,Jl. Cempolorejo,Sedang,363.0,357.3,0.984,penuh,2,persis,Jalan Cempolorejo
+Semarang Barat,33.74.13.064,Jl. Semarang Indah Blok D-E,Sedang,387.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.075,Jl. Srinindito,Baik,499.0,1726.5,3.46,berlebih,10,induk (7 ruas),Jalan Srinindito I | Jalan Srinindito II | Jalan Srinindito III | Jalan Srinindito IV | Jalan Srinindito V | Jalan Srinindito VI | Jalan Srinindito VII
+Semarang Barat,33.74.13.022,Jl. Gedongsongo Timur,Sedang,625.0,890.9,1.425,penuh,4,persis,Jalan Gedong Songo Timur
+Semarang Barat,33.74.13.076,Jl. Srinindito Selatan,Baik,222.0,218.3,0.983,penuh,1,persis,Jalan Srinindito Selatan
+Semarang Barat,33.74.13.079,Jl. Taman Condro Kusumo,Sedang,379.0,1217.9,3.213,berlebih,9,induk (5 ruas),Jalan Taman Condro Kusumo II | Jalan Taman Condro Kusumo VII | Jalan Taman Condrokusumo I | Jalan Taman Condrokusumo II | Jalan Taman Condrokusumo V | Jalan Taman Condrokusumo VIII
+Semarang Barat,33.74.13.065,Jl. Semarang Indah Blok D-V,Sedang,428.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.074,Jl. Sri Rejeki Utara,Sedang,325.0,898.5,2.765,berlebih,7,induk (7 ruas),Jalan Sri Rejeki Utara IV | Jalan Sri Rejeki Utara IX | Jalan Sri Rejeki Utara V | Jalan Sri Rejeki Utara VI | Jalan Sri Rejeki Utara VII | Jalan Sri Rejeki Utara VIII | Jalan Sri Rejeki Utara X
+Semarang Barat,33.74.13.021,Jl. Gedongsongo,Sedang,450.0,113.3,0.252,sebagian,1,persis,Jalan Gedong Songo
+Semarang Barat,33.74.13.062,Jl. Rorojonggrang 1,Sedang,639.0,642.5,1.006,penuh,4,mirip (0.99),Jalan Roro Jongrang I
+Semarang Barat,33.74.13.016,Jl. Condro Kusumo 1,Sedang,358.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.015,Jl. Condro Kusumo,Sedang,358.0,232.3,0.649,penuh,3,induk (2 ruas),Jalan Condrokusumo II | Jalan Condrokusumo III
+Semarang Barat,33.74.13.068,Jl. Simongan Ringin Telu,Sedang,979.0,459.5,0.469,sebagian,1,persis,Jalan Simongan Ringin Telu
+Semarang Barat,33.74.13.035,Jl. Madukoro Blok AA-BB,Rusak Ringan,747.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.080,Jl. Tri Tunggal,Sedang,654.0,792.3,1.212,penuh,2,persis,Jalan Tri Tunggal
+Semarang Barat,33.74.13.033,Jl. Madukoro,Baik,2704.0,4297.8,1.589,penuh,7,persis,Jalan Madukoro
+Semarang Barat,33.74.13.042,Jl. Pangk. Puad. A. Yani,Sedang,779.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.032,Jl. Kumudasmoro Tengah,Sedang,414.0,457.4,1.105,penuh,2,persis,Jalan Kumudasmoro Tengah
+Semarang Barat,33.74.13.034,Jl. Madukoro Blok A,Sedang,557.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.029,Jl. Kenconowungu Selatan 3,Sedang,98.0,405.7,4.139,berlebih,1,persis,Jalan Kenconowungu Selatan III
+Semarang Barat,33.74.13.019,Jl. Dr. Ismangil,Baik,831.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.049,Jl. Puspogiwang Timur,Sedang,497.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.009,Jl. Bojong Salaman,Sedang,1275.0,1103.9,0.866,penuh,3,persis,Jalan Bojong Salaman
+Semarang Barat,33.74.13.026,Jl. Kali Semarang Indah,Baik,1165.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.002,Jl. Akses Bandara,Baik,1191.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.046,Jl. Puspanjolo Timur,Rusak Ringan,741.0,0,,,0,tidak cocok,
+Semarang Barat,33.74.13.054,Jl. Puspowarno Selatan 3,Sedang,473.0,97.6,0.206,sebagian,1,persis,Jalan Puspowarno Selatan III
+Semarang Barat,33.74.13.011,Jl. Borobudur Selatan,Rusak Ringan,563.0,802.5,1.425,penuh,4,persis,Jalan Borobudur Selatan
+Semarang Selatan,33.74.07.063,Jl. Pandanaran,Baik,1522.0,3073.0,2.019,berlebih,30,persis,Jalan Pandanaran
+Semarang Selatan,33.74.07.056,Jl. Menteri Supeno,Baik,873.0,1303.8,1.493,penuh,5,mirip (0.96),Jalan Mentri Supeno
+Semarang Selatan,33.74.07.082,Jl. Tri Lomba Juang,Baik,510.0,490.9,0.963,penuh,3,persis,Jalan Tri Lomba Juang
+Semarang Selatan,33.74.07.043,Jl. Kyai Saleh,Baik,1036.0,1113.6,1.075,penuh,6,persis,Jalan Kyai Saleh
+Semarang Selatan,33.74.07.027,Jl. HOS. Cokroaminoto,Baik,685.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.030,Jl. Jayengan,Sedang,218.0,222.7,1.022,penuh,1,persis,Jalan Jayengan
+Semarang Selatan,33.74.07.080,Jl. Suyudono,Baik,1061.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.004,Jl. Basudewo,Baik,1065.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.033,Jl. Kaligarang,Baik,1271.0,1341.7,1.056,penuh,5,persis,Jalan Kaligarang
+Semarang Selatan,33.74.07.015,Jl. Dr. Kariadi,Baik,732.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.059,Jl. Mugas Dalam,Sedang,565.0,708.3,1.254,penuh,7,persis,Jalan Mugas Dalam
+Semarang Selatan,33.74.07.008,Jl. Bergota Talang,Sedang,882.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.007,Jl. Bergota Mayat (Bawah),Sedang,297.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.086,Jl. Yogya,Sedang,292.0,277.7,0.951,penuh,1,persis,Jalan Yogya
+Semarang Selatan,33.74.07.034,Jl. Kalisari Baru,Sedang,359.0,369.5,1.029,penuh,1,persis,Jalan Kalisari Baru
+Semarang Selatan,33.74.07.064,Jl. Penaton,Baik,166.0,330.5,1.991,berlebih,4,persis,Jalan Penaton
+Semarang Selatan,33.74.07.025,Jl. Gisik Sari,Baik,241.0,633.0,2.626,berlebih,4,persis,Jalan Gisiksari
+Semarang Selatan,33.74.07.005,Jl. Bendungan,Baik,558.0,672.9,1.206,penuh,7,persis,Jalan Bendungan
+Semarang Selatan,33.74.07.038,Jl. Kedungjati,Sedang,428.0,248.2,0.58,sebagian,1,persis,Jalan Kedungjati
+Semarang Selatan,33.74.07.060,Jl. Mugas Dalam 10,Sedang,185.0,184.6,0.998,penuh,1,persis,Jalan Mugas Dalam X
+Semarang Selatan,33.74.07.081,Jl. Taman Menteri Supeno,Baik,462.0,250.2,0.542,sebagian,3,mirip (0.97),Jalan Taman Mentri Supeno
+Semarang Selatan,33.74.07.024,Jl. Gergaji 5,Sedang,111.0,75.5,0.68,penuh,1,persis,Jalan Gergaji V
+Semarang Selatan,33.74.07.023,Jl. Gergaji,Sedang,379.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.076,Jl. Solo,Sedang,192.0,189.3,0.986,penuh,1,persis,Jalan Solo
+Semarang Selatan,33.74.07.028,Jl. HOS. Cokroaminoto - Kesdam,Baik,245.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.057,Jl. Menteri Supeno 1,Sedang,234.0,227.3,0.971,penuh,1,mirip (0.96),Jalan Mentri Supeno I
+Semarang Selatan,33.74.07.084,Jl. Wonodri Krajan,Baik,579.0,156.5,0.27,sebagian,1,persis,Jalan Wonodri Krajan
+Semarang Selatan,33.74.07.071,Jl. Singosari,Baik,934.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.077,Jl. Sompok,Baik,824.0,22.2,0.027,sebagian,3,persis,Jalan Sompok
+Semarang Selatan,33.74.07.061,Jl. Nangka Timur,Sedang,374.0,376.9,1.008,penuh,1,persis,Jalan Nangka Timur
+Semarang Selatan,33.74.07.049,Jl. Lamper Tengah 9,Sedang,720.0,200.5,0.279,sebagian,4,persis,Jalan Lamper Tengah IX
+Semarang Selatan,33.74.07.021,Jl. Erlangga Tengah,Baik,597.0,524.6,0.879,penuh,2,persis,Jalan Erlangga Tengah
+Semarang Selatan,33.74.07.019,Jl. Erlangga Barat 7,Baik,440.0,413.3,0.939,penuh,1,persis,Jalan Erlangga Barat VII
+Semarang Selatan,33.74.07.018,Jl. Erlangga Barat 1,Sedang,200.0,222.9,1.114,penuh,1,persis,Jalan Erlangga Barat I
+Semarang Selatan,33.74.07.066,Jl. Peterongan,Baik,497.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.042,Jl. Kusumawardani,Baik,316.0,551.1,1.744,berlebih,1,persis,Jalan Kusuma Wardani
+Semarang Selatan,33.74.07.073,Jl. Singosari 2,Sedang,217.0,213.3,0.983,penuh,1,persis,Jalan Singosari II
+Semarang Selatan,33.74.07.069,Jl. Pleburan Tengah,Sedang,196.0,197.9,1.01,penuh,1,persis,Jalan Pleburan Tengah
+Semarang Selatan,33.74.07.072,Jl. Singosari 1,Sedang,465.0,466.1,1.002,penuh,1,persis,Jalan Singosari I
+Semarang Selatan,33.74.07.020,Jl. Erlangga Selatan,Baik,305.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.022,Jl. Gayam,Sedang,172.0,165.6,0.963,penuh,3,persis,Jalan Gayam
+Semarang Selatan,33.74.07.075,Jl. Siwalan,Sedang,307.0,302.5,0.985,penuh,1,persis,Jalan Siwalan
+Semarang Selatan,33.74.07.074,Jl. Singosari Timur,Baik,508.0,625.1,1.231,penuh,2,persis,Jalan Singosari Timur
+Semarang Selatan,33.74.07.085,Jl. Wonodri Sendang,Sedang,461.0,465.3,1.009,penuh,4,induk (2 ruas),Jalan Wonodri Sendang III | Jalan Wonodri Sendang IV
+Semarang Selatan,33.74.07.083,Jl. Wonodri Baru,Baik,621.0,815.9,1.314,penuh,2,persis,Jalan Wonodri Baru
+Semarang Selatan,33.74.07.070,Jl. Rambutan,Baik,445.0,182.7,0.41,sebagian,1,persis,Jalan Rambutan
+Semarang Selatan,33.74.07.055,Jl. Manggis 2,Sedang,333.0,11.9,0.036,sebagian,1,persis,Jalan Manggis II
+Semarang Selatan,33.74.07.054,Jl. Manggis,Sedang,207.0,81.3,0.393,sebagian,1,persis,Jalan Manggis
+Semarang Selatan,33.74.07.031,Jl. Jeruk,Baik,402.0,294.2,0.732,penuh,1,persis,Jalan Jeruk
+Semarang Selatan,33.74.07.078,Jl. Sompok 2,Baik,530.0,525.0,0.991,penuh,2,persis,Jalan Sompok II
+Semarang Selatan,33.74.07.012,Jl. Cempedak Utara,Sedang,492.0,18.5,0.038,sebagian,2,persis,Jalan Cempedak Utara
+Semarang Selatan,33.74.07.037,Jl. Kedondong Utara,Sedang,386.0,406.9,1.054,penuh,10,persis,Jalan Kedondong Utara
+Semarang Selatan,33.74.07.046,Jl. Lamper Mijen Baru,Sedang,315.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.036,Jl. Kedondong Dalam 6,Sedang,245.0,318.3,1.299,penuh,2,persis,Jalan Kedondong Dalam VI
+Semarang Selatan,33.74.07.011,Jl. Cempedak,Sedang,220.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.067,Jl. Pisang 1,Sedang,435.0,278.1,0.639,penuh,4,persis,Jalan Pisang I
+Semarang Selatan,33.74.07.014,Jl. Cerme Utara,Sedang,182.0,182.6,1.003,penuh,1,mirip (0.95),Jalan Cereme Utara
+Semarang Selatan,33.74.07.052,Jl. Lamper Tengah 14,Sedang,416.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.050,Jl. Lamper Tengah 10,Sedang,601.0,1231.5,2.049,berlebih,11,persis,Jalan Lamper Tengah X
+Semarang Selatan,33.74.07.051,Jl. Lamper Tengah 12,Sedang,638.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.013,Jl. Cerme,Sedang,251.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.035,Jl. Kanal,Baik,691.0,682.3,0.987,penuh,3,persis,Jalan Kanal
+Semarang Selatan,33.74.07.048,Jl. Lamper Tengah,Baik,1252.0,1265.8,1.011,penuh,8,persis,Jalan Lamper Tengah
+Semarang Selatan,33.74.07.003,Jl. Atmodirono,Baik,386.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.026,Jl. Hayam Wuruk,Baik,569.0,665.2,1.169,penuh,2,persis,Jalan Hayam Wuruk
+Semarang Selatan,33.74.07.029,Jl. Imam Barjo,Baik,919.0,772.1,0.84,penuh,11,persis,Jalan Imam Barjo
+Semarang Selatan,33.74.07.053,Jl. Lampersari,Sedang,1006.0,1013.0,1.007,penuh,3,persis,Jalan Lamper Sari
+Semarang Selatan,33.74.07.079,Jl. Sompok Baru,Baik,392.0,395.3,1.008,penuh,1,persis,Jalan Sompok Baru
+Semarang Selatan,33.74.07.017,Jl. Erlangga,Baik,676.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.068,Jl. Pleburan Barat,Baik,586.0,95.2,0.163,sebagian,1,persis,Jalan Pleburan Barat
+Semarang Selatan,33.74.07.044,Jl. Lamper Krajan,Sedang,179.0,94.5,0.528,sebagian,1,persis,Jalan Lamper Krajan
+Semarang Selatan,33.74.07.032,Jl. Jeruk 8,Sedang,243.0,209.5,0.862,penuh,2,persis,Jalan Jeruk VIII
+Semarang Selatan,33.74.07.039,Jl. Kertanegara Selatan,Sedang,547.0,244.9,0.448,sebagian,2,persis,Jalan Kertanegara Selatan
+Semarang Selatan,33.74.07.002,Jl. Admodirono 1,Sedang,265.0,267.8,1.011,penuh,1,persis,Jalan Admodirono I
+Semarang Selatan,33.74.07.047,Jl. Lamper Mijen Utara,Sedang,507.0,500.7,0.988,penuh,1,persis,Jalan Lamper Mijen Utara
+Semarang Selatan,33.74.07.016,Jl. Durian Barat,Baik,375.0,395.5,1.055,penuh,4,persis,Jalan Durian Barat
+Semarang Selatan,33.74.07.045,Jl. Lamper Mijen,Baik,388.0,24.4,0.063,sebagian,2,persis,Jalan Lamper Mijen
+Semarang Selatan,33.74.07.010,Jl. Bunderan Simpang Lima,Baik,770.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.001,Jl. A. Yani,Baik,1229.0,71.0,0.058,sebagian,1,persis,Jalan A. Yani
+Semarang Selatan,33.74.07.009,Jl. Brigjend. Katamso,Baik,591.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.065,Jl. Penaton Karangasem,Sedang,165.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.006,Jl. Bergota Mayat (Atas),Baik,270.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.062,Jl. Pahlawan,Baik,1525.0,1597.5,1.048,penuh,13,persis,Jalan Pahlawan
+Semarang Selatan,33.74.07.040,Jl. Kusumanegara,Baik,648.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.041,Jl. Kusumanegara 1,Baik,152.0,0,,,0,tidak cocok,
+Semarang Selatan,33.74.07.058,Jl. Mugas Barat 4,Sedang,171.0,145.1,0.848,penuh,1,persis,Jalan Mugas Barat IV
+Semarang Tengah,33.74.01.067,Jl. Pekunden Timur,Baik,633.0,559.9,0.884,penuh,2,persis,Jalan Pekunden Timur
+Semarang Tengah,33.74.01.084,Jl. Seteran Tengah,Baik,389.0,384.9,0.989,penuh,1,persis,Jalan Seteran Tengah
+Semarang Tengah,33.74.01.050,Jl. Kokrosono,Baik,3048.0,2987.3,0.98,penuh,10,persis,Jalan Kokrosono | Kokrosono
+Semarang Tengah,33.74.01.065,Jl. Pekunden,Baik,357.0,330.2,0.925,penuh,4,persis,Jalan Pekunden
+Semarang Tengah,33.74.01.001,Jl. Abimanyu,Baik,240.0,333.8,1.391,penuh,3,persis,Jalan Abimanyu
+Semarang Tengah,33.74.01.009,Jl. Bedagan,Baik,404.0,82.7,0.205,sebagian,1,persis,Jalan Bedagan
+Semarang Tengah,33.74.01.083,Jl. Seteran Serut,Baik,310.0,310.3,1.001,penuh,1,persis,Jalan Seteran Serut
+Semarang Tengah,33.74.01.054,Jl. Mayjend. Sutoyo Siswomiharjo,Baik,1551.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.059,Jl. Moch. Suyudi,Baik,462.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.017,Jl. Depok,Baik,463.0,463.7,1.001,penuh,1,persis,Jalan Depok
+Semarang Tengah,33.74.01.018,Jl. Gajahmada,Baik,1723.0,388.9,0.226,sebagian,5,persis,Jalan Gajah Mada
+Semarang Tengah,33.74.01.081,Jl. Seteran Barat,Baik,281.0,73.7,0.262,sebagian,1,persis,Jalan Seteran Barat
+Semarang Tengah,33.74.01.061,Jl. Pandanaran 2,Baik,544.0,412.8,0.759,penuh,3,persis,Jalan Pandanaran II
+Semarang Tengah,33.74.01.041,Jl. Kapten Piere Tendean,Baik,487.0,465.2,0.955,penuh,3,persis,Jalan Kapten Piere Tendean
+Semarang Tengah,33.74.01.058,Jl. MH. Thamrin,Baik,1090.0,7.0,0.006,sebagian,1,persis,Jalan MH. Thamrin
+Semarang Tengah,33.74.01.074,Jl. Sadewa 3,Baik,46.0,165.0,3.588,berlebih,1,persis,Jalan Sadewa III
+Semarang Tengah,33.74.01.029,Jl. Gendingan,Baik,289.0,289.5,1.002,penuh,1,persis,Jalan Gendingan
+Semarang Tengah,33.74.01.092,Jl. Tanjung,Baik,476.0,540.4,1.135,penuh,4,persis,Jalan Tanjung
+Semarang Tengah,33.74.01.031,Jl. Indraprasta,Baik,1092.0,1070.1,0.98,penuh,3,persis,Jalan Indraprasta
+Semarang Tengah,33.74.01.012,Jl. Bima,Baik,709.0,1226.4,1.73,berlebih,2,persis,Jalan Bima
+Semarang Tengah,33.74.01.030,Jl. Imam Bonjol,Baik,2387.0,146.1,0.061,sebagian,2,persis,Jalan Imam Bonjol
+Semarang Tengah,33.74.01.007,Jl. Arjuna,Baik,515.0,590.2,1.146,penuh,5,persis,Jalan Arjuna
+Semarang Tengah,33.74.01.095,Jl. Yudistira,Baik,270.0,479.2,1.775,berlebih,5,persis,Jalan Yudistira
+Semarang Tengah,33.74.01.060,Jl. Pandanaran 1,Baik,306.0,301.9,0.987,penuh,1,persis,Jalan Pandanaran I
+Semarang Tengah,33.74.01.075,Jl. Saidan,Sedang,226.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.002,Jl. Ade Irma Suryani Nasution,Sedang,530.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.039,Jl. K.S. Tubun,Sedang,176.0,679.7,3.862,berlebih,5,persis,Jalan K.S. Tubun | Jalan Ks Tubun
+Semarang Tengah,33.74.01.085,Jl. Simpang,Baik,246.0,250.4,1.018,penuh,1,persis,Jalan Simpang
+Semarang Tengah,33.74.01.032,Jl. Inspeksi Kali Semarang,Sedang,7253.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.023,Jl. Gang Lombok,Baik,379.0,362.1,0.955,penuh,2,persis,Jalan Gang Lombok
+Semarang Tengah,33.74.01.038,Jl. K.H.A. Dahlan,Baik,705.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.094,Jl. Wot Gandul Dalam,Baik,325.0,528.4,1.626,berlebih,3,persis,Jalan Wotgandul Dalam
+Semarang Tengah,33.74.01.022,Jl. Gang Gambiran,Baik,315.0,418.4,1.328,penuh,5,persis,Jalan Gang Gambiran
+Semarang Tengah,33.74.01.020,Jl. Gang Belakang,Sedang,337.0,336.3,0.998,penuh,1,persis,Jalan Gang Belakang
+Semarang Tengah,33.74.01.080,Jl. Seroja Timur,Baik,599.0,699.4,1.168,penuh,5,persis,Jalan Seroja Timur
+Semarang Tengah,33.74.01.093,Jl. Wot Gandul Timur,Sedang,407.0,161.3,0.396,sebagian,1,persis,Jalan Wotgandul Timur
+Semarang Tengah,33.74.01.046,Jl. Kemuning,Baik,265.0,755.5,2.851,berlebih,2,persis,Jalan Kemuning
+Semarang Tengah,33.74.01.091,Jl. Taman Seteran Baru,Baik,366.0,374.4,1.023,penuh,1,persis,Jalan Taman Seteran Baru
+Semarang Tengah,33.74.01.055,Jl. Melati Selatan,Baik,226.0,223.6,0.989,penuh,1,persis,Jalan Melati Selatan
+Semarang Tengah,33.74.01.044,Jl. Karangwulan,Baik,235.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.076,Jl. Sebandaran,Sedang,140.0,222.1,1.586,penuh,4,persis,Jalan Sebandaran
+Semarang Tengah,33.74.01.077,Jl. Seroja 1,Baik,235.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.069,Jl. Petolongan,Baik,326.0,331.1,1.016,penuh,1,persis,Jalan Petolongan
+Semarang Tengah,33.74.01.048,Jl. Kepodang,Sedang,328.0,672.9,2.051,berlebih,4,persis,Jalan Kepodang
+Semarang Tengah,33.74.01.036,Jl. K.H. Agus Salim,Sedang,904.0,917.8,1.015,penuh,6,persis,Jalan K.H. Agus Salim
+Semarang Tengah,33.74.01.064,Jl. Pekojan,Baik,425.0,421.9,0.993,penuh,3,persis,Jalan Pekojan | Pekojan
+Semarang Tengah,33.74.01.049,Jl. Ki Mangunsarkoro,Baik,1812.0,1800.5,0.994,penuh,8,persis,Jalan Ki Mangunsarkoro | Ki Mangun Sarkoro
+Semarang Tengah,33.74.01.027,Jl. Gang Warung,Baik,361.0,357.8,0.991,penuh,1,persis,Jalan Gang Warung
+Semarang Tengah,33.74.01.037,Jl. K.H. Wahid Hasyim,Baik,531.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.025,Jl. Gang Pinggir,Sedang,480.0,485.6,1.012,penuh,1,persis,Jalan Gang Pinggir
+Semarang Tengah,33.74.01.014,Jl. Cenderawasih,Baik,463.0,538.0,1.162,penuh,4,mirip (0.96),Jalan Cendrawasih
+Semarang Tengah,33.74.01.033,Jl. Jagalan Barat,Sedang,219.0,82.6,0.377,sebagian,1,persis,Jalan Jagalan Barat
+Semarang Tengah,33.74.01.013,Jl. Brumbungan,Baik,563.0,897.8,1.595,penuh,8,induk (6 ruas),Jalan Brumbungan I | Jalan Brumbungan II | Jalan Brumbungan III | Jalan Brumbungan IV | Jalan Brumbungan V | Jalan Brumbungan VI
+Semarang Tengah,33.74.01.005,Jl. Anggrek,Baik,339.0,767.1,2.263,berlebih,5,persis,Jalan Anggrek
+Semarang Tengah,33.74.01.011,Jl. Beteng,Baik,407.0,410.3,1.008,penuh,2,persis,Jalan Beteng
+Semarang Tengah,33.74.01.026,Jl. Gang Tengah,Sedang,366.0,420.1,1.148,penuh,2,persis,Gang Tengah | Jalan Gang Tengah
+Semarang Tengah,33.74.01.019,Jl. Gang Baru,Baik,423.0,269.0,0.636,penuh,3,persis,Gang Baru
+Semarang Tengah,33.74.01.056,Jl. Melati Timur,Baik,157.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.042,Jl. Karanganyar,Baik,622.0,5468.6,8.792,berlebih,33,persis,Jalan Karanganyar | Karang Anyar
+Semarang Tengah,33.74.01.072,Jl. Pringgading,Baik,286.0,584.7,2.045,berlebih,5,persis,Jalan Pringgading
+Semarang Tengah,33.74.01.034,Jl. Jagalan Timur,Sedang,282.0,272.7,0.967,penuh,5,persis,Jalan Jagalan Timur
+Semarang Tengah,33.74.01.043,Jl. Karangsaru,Sedang,276.0,274.3,0.994,penuh,1,persis,Jalan Karangsaru
+Semarang Tengah,33.74.01.087,Jl. Stadion Selatan,Baik,283.0,285.7,1.009,penuh,1,persis,Jalan Stadion Selatan
+Semarang Tengah,33.74.01.089,Jl. Stadion Utara,Baik,269.0,272.8,1.014,penuh,1,persis,Jalan Stadion Utara
+Semarang Tengah,33.74.01.006,Jl. Arief Rahman Hakim,Sedang,156.0,182.0,1.167,penuh,2,persis,Jalan Arief Rahman Hakim
+Semarang Tengah,33.74.01.045,Jl. Kauman,Baik,403.0,5597.6,13.89,berlebih,18,persis,Jalan Kauman
+Semarang Tengah,33.74.01.063,Jl. Pedamaran,Sedang,398.0,387.6,0.974,penuh,1,persis,Jalan Pedamaran
+Semarang Tengah,33.74.01.090,Jl. Suari,Sedang,266.0,165.9,0.624,penuh,2,persis,Jalan Suari
+Semarang Tengah,33.74.01.035,Jl. Jalak,Baik,89.0,242.8,2.728,berlebih,2,persis,Jalan Jalak
+Semarang Tengah,33.74.01.047,Jl. Kenari,Sedang,228.0,523.5,2.296,berlebih,4,persis,Jalan Kenari
+Semarang Tengah,33.74.01.028,Jl. Gelatik,Baik,96.0,134.1,1.397,penuh,1,persis,Jalan Gelatik
+Semarang Tengah,33.74.01.015,Jl. Dahlia Selatan,Baik,78.0,81.0,1.038,penuh,1,persis,Jalan Dahlia Selatan
+Semarang Tengah,33.74.01.016,Jl. Dahlia Utara,Baik,79.0,86.4,1.094,penuh,1,persis,Jalan Dahlia Utara
+Semarang Tengah,33.74.01.057,Jl. Melati Utara,Baik,221.0,220.3,0.997,penuh,1,persis,Jalan Melati Utara
+Semarang Tengah,33.74.01.062,Jl. Pasar Baru,Baik,76.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.071,Jl. Plampitan,Sedang,360.0,397.0,1.103,penuh,2,persis,Jalan Plampitan
+Semarang Tengah,33.74.01.086,Jl. Stadion Barat,Rusak Ringan,305.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.004,Jl. Alun-Alun Timur,Sedang,168.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.040,Jl. Kanjengan,Rusak Ringan,364.0,367.4,1.009,penuh,3,persis,Jalan Kanjengan
+Semarang Tengah,33.74.01.070,Jl. Petudungan,Baik,320.0,378.2,1.182,penuh,4,persis,Jalan Petudungan
+Semarang Tengah,33.74.01.088,Jl. Stadion Timur,Baik,262.0,265.9,1.015,penuh,2,persis,Jalan Stadion Timur
+Semarang Tengah,33.74.01.082,Jl. Seteran Dalam,Baik,103.0,102.1,0.991,penuh,1,persis,Jalan Seteran Dalam
+Semarang Tengah,33.74.01.021,Jl. Gang Besen,Baik,399.0,322.5,0.808,penuh,1,persis,Jalan Gang Besen
+Semarang Tengah,33.74.01.024,Jl. Gang Mangkok,Baik,82.0,85.0,1.036,penuh,1,persis,Jalan Gang Mangkok
+Semarang Tengah,33.74.01.073,Jl. Pungkuran,Rusak Ringan,111.0,325.3,2.931,berlebih,5,persis,Jalan Pungkuran
+Semarang Tengah,33.74.01.052,Jl. Letjen Suprapto,Baik,670.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.053,Jl. Mayjend. D.I. Panjaitan,Baik,1549.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.078,Jl. Seroja Dalam,Baik,346.0,345.0,0.997,penuh,1,persis,Jalan Seroja Dalam
+Semarang Tengah,33.74.01.079,Jl. Seroja Selatan,Baik,568.0,60.6,0.107,sebagian,1,persis,Jalan Seroja Selatan
+Semarang Tengah,33.74.01.010,Jl. Beringin,Baik,199.0,359.2,1.805,berlebih,3,persis,Jalan Beringin
+Semarang Tengah,33.74.01.008,Jl. Batan Selatan,Baik,384.0,387.7,1.01,penuh,1,persis,Jalan Batan Selatan
+Semarang Tengah,33.74.01.066,Jl. Pekunden Tengah,Baik,388.0,1032.9,2.662,berlebih,7,persis,Jalan Pekunden Tengah
+Semarang Tengah,33.74.01.003,Jl. Alun-Alun Barat,Sedang,217.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.051,Jl. Kol. Sugiyono,Baik,632.0,0,,,0,tidak cocok,
+Semarang Tengah,33.74.01.068,Jl. Pemuda,Baik,2756.0,62.5,0.023,sebagian,1,persis,Jalan Pemuda
+Semarang Timur,33.74.03.011,Jl. Halmahera,Baik,582.0,1018.3,1.75,berlebih,4,induk (4 ruas),Jalan Halmahera I | Jalan Halmahera II | Jalan Halmahera III | Jalan Halmahera IV
+Semarang Timur,33.74.03.022,Jl. Maluku,Baik,497.0,567.2,1.141,penuh,6,induk (4 ruas),Jalan Maluku I | Jalan Maluku II | Jalan Maluku III | Jalan Maluku IV
+Semarang Timur,33.74.03.027,Jl. Panca Karya,Baik,623.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.046,Jl. Tirtyoso Tengah,Sedang,538.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.024,Jl. Mlaten Trenggulun,Baik,601.0,638.7,1.063,penuh,1,persis,Jalan Mlaten Trenggulun
+Semarang Timur,33.74.03.039,Jl. Sedompyong,Sedang,1250.0,441.9,0.354,sebagian,3,persis,Jalan Sedompyong
+Semarang Timur,33.74.03.015,Jl. Inspeksi Timur,Sedang,459.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.014,Jl. Inspeksi Barat,Sedang,768.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.020,Jl. Ligu Tengah,Sedang,374.0,368.3,0.985,penuh,1,persis,Jalan Ligu Tengah
+Semarang Timur,33.74.03.038,Jl. Rejosari,Baik,878.0,987.7,1.125,penuh,9,persis,Jalan Rejosari
+Semarang Timur,33.74.03.040,Jl. Senjoyo,Sedang,507.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.032,Jl. Progo 5,Sedang,252.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.031,Jl. Progo 1,Sedang,142.0,75.9,0.535,sebagian,1,persis,Jalan Progo I
+Semarang Timur,33.74.03.025,Jl. Mlatiharjo,Baik,354.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.010,Jl. Dargo,Sedang,408.0,408.5,1.001,penuh,1,persis,Jalan Dargo
+Semarang Timur,33.74.03.008,Jl. Citandui Selatan,Sedang,547.0,384.7,0.703,penuh,1,persis,Jalan Citandui Selatan
+Semarang Timur,33.74.03.002,Jl. Bugangan,Baik,592.0,592.6,1.001,penuh,3,persis,Jalan Bugangan
+Semarang Timur,33.74.03.029,Jl. Pengapon,Baik,1149.0,1079.8,0.94,penuh,3,persis,Jalan Pengapon
+Semarang Timur,33.74.03.001,Jl. Barito,Baik,4150.0,1222.8,0.295,sebagian,1,persis,Jalan Barito
+Semarang Timur,33.74.03.009,Jl. Citarum,Baik,1312.0,706.1,0.538,sebagian,3,persis,Jalan Citarum
+Semarang Timur,33.74.03.045,Jl. Tirpo Purwosari,Baik,516.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.041,Jl. Sidodadi Barat,Sedang,291.0,288.2,0.99,penuh,2,persis,Jalan Sidodadi Barat
+Semarang Timur,33.74.03.023,Jl. Manisharjo,Sedang,231.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.036,Jl. Rejomulyo Barat,Sedang,255.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.043,Jl. Sidorejo,Baik,444.0,837.9,1.887,berlebih,5,persis,Jalan Sidorejo
+Semarang Timur,33.74.03.042,Jl. Sidodadi Timur,Sedang,279.0,285.8,1.024,penuh,4,persis,Jalan Sidodadi Timur
+Semarang Timur,33.74.03.016,Jl. Karimata,Baik,530.0,444.1,0.838,penuh,2,persis,Jalan Karimata
+Semarang Timur,33.74.03.033,Jl. Purwosari,Baik,1092.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.026,Jl. Musi,Sedang,360.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.044,Jl. Taman Progo,Baik,79.0,230.7,2.92,berlebih,1,persis,Jalan Taman Progo
+Semarang Timur,33.74.03.037,Jl. Rejomulyo Timur,Sedang,251.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.030,Jl. Pondok Pati,Sedang,243.0,247.2,1.017,penuh,1,persis,Jalan Pondok Pati
+Semarang Timur,33.74.03.028,Jl. Pattimura,Sedang,321.0,611.9,1.906,berlebih,2,persis,Jalan Pattimura
+Semarang Timur,33.74.03.006,Jl. Citandui 3,Sedang,230.0,169.2,0.736,penuh,1,persis,Jalan Citandui III
+Semarang Timur,33.74.03.005,Jl. Citandui,Baik,536.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.035,Jl. Rejo Leksono 1,Sedang,240.0,219.0,0.913,penuh,1,persis,Jalan Rejoleksono I
+Semarang Timur,33.74.03.013,Jl. Indragiri,Sedang,1703.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.012,Jl. Hawa,Baik,495.0,535.6,1.082,penuh,4,induk (4 ruas),Jalan Hawa I | Jalan Hawa II | Jalan Hawa III | Jalan Hawa IV
+Semarang Timur,33.74.03.018,Jl. Krakatau,Baik,467.0,1583.7,3.391,berlebih,8,induk (7 ruas),Jalan Krakatau I | Jalan Krakatau II | Jalan Krakatau III | Jalan Krakatau IV | Jalan Krakatau V | Jalan Krakatau VI | Jalan Krakatau VII
+Semarang Timur,33.74.03.019,Jl. Labuan,Sedang,468.0,0,,,0,tidak cocok,
+Semarang Timur,33.74.03.004,Jl. Cilosari,Sedang,1083.0,527.0,0.487,sebagian,4,persis,Jalan Cilosari
+Semarang Timur,33.74.03.021,Jl. M.T. Haryono,Baik,3495.0,1343.5,0.384,sebagian,6,persis,Jalan MT. Haryono
+Semarang Timur,33.74.03.034,Jl. Raden Patah,Baik,237.0,2364.2,9.976,berlebih,19,persis,Jalan Raden Patah
+Semarang Timur,33.74.03.017,Jl. Kartini,Baik,1863.0,2332.5,1.252,penuh,18,persis,Jalan Kartini
+Semarang Timur,33.74.03.007,Jl. Citandui 4,Sedang,151.0,115.3,0.763,penuh,1,persis,Jalan Citandui IV
+Semarang Timur,33.74.03.003,Jl. Bugangan Regol,Sedang,376.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.013,Jl. Dorang,Sedang,610.0,600.9,0.985,penuh,1,persis,Jalan Dorang
+Semarang Utara,33.74.02.019,Jl. Kakap,Sedang,846.0,700.2,0.828,penuh,3,persis,Jalan Kakap
+Semarang Utara,33.74.02.030,Jl. Lodan,Rusak Ringan,2084.0,1089.1,0.523,sebagian,4,induk (3 ruas),Jalan Lodan I | Jalan Lodan II | Jalan Lodan III
+Semarang Utara,33.74.02.033,Jl. Mujahir,Sedang,206.0,201.9,0.98,penuh,1,persis,Jalan Mujahir
+Semarang Utara,33.74.02.010,Jl. Brotojoyo Utara,Rusak Ringan,1029.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.050,Jl. Taman Hasanudin,Sedang,593.0,1271.6,2.144,berlebih,6,persis,Jalan Taman Hasanudin
+Semarang Utara,33.74.02.006,Jl. Brotojoyo,Baik,1099.0,1924.5,1.751,berlebih,5,persis,Jalan Brotojoyo
+Semarang Utara,33.74.02.021,Jl. Kalimas Barat,Baik,619.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.057,Jl. Tanjungmas,Baik,1622.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.059,Jl. Telaga Mas,Sedang,301.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.037,Jl. Peres,Baik,501.0,499.1,0.996,penuh,1,persis,Jalan Peres
+Semarang Utara,33.74.02.044,Jl. Selo Mas,Sedang,356.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.048,Jl. Sumber Mas,Sedang,541.0,690.8,1.277,penuh,2,induk (2 ruas),Jalan Sumber Mas I | Jalan Sumber Mas II
+Semarang Utara,33.74.02.056,Jl. Tanggul Mas,Sedang,481.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.032,Jl. Muara Mas,Sedang,623.0,1695.0,2.721,berlebih,20,induk (9 ruas),Jalan Muara Mas I | Jalan Muara Mas III | Jalan Muara Mas IV | Jalan Muara Mas IX | Jalan Muara Mas V | Jalan Muara Mas VI | Jalan Muara Mas VII | Jalan Muara Mas VIII | Jalan Muara Mas X
+Semarang Utara,33.74.02.008,Jl. Brotojoyo 5,Baik,282.0,262.9,0.932,penuh,1,persis,Jalan Brotojoyo V
+Semarang Utara,33.74.02.025,Jl. Kuala Mas,Baik,597.0,2945.6,4.934,berlebih,13,induk (10 ruas),Jalan Kuala Mas I | Jalan Kuala Mas II | Jalan Kuala Mas III | Jalan Kuala Mas IV | Jalan Kuala Mas IX | Jalan Kuala Mas V | Jalan Kuala Mas VI | Jalan Kuala Mas VII | Jalan Kuala Mas VIII | Jalan Kuala Mas X
+Semarang Utara,33.74.02.007,Jl. Brotojoyo 2,Sedang,1046.0,130.6,0.125,sebagian,1,persis,Jalan Brotojoyo II
+Semarang Utara,33.74.02.016,Jl. Gondomono,Baik,555.0,551.3,0.993,penuh,1,persis,Jalan Gondomono
+Semarang Utara,33.74.02.039,Jl. Petek,Baik,791.0,798.8,1.01,penuh,2,persis,Jalan Petek
+Semarang Utara,33.74.02.012,Jl. Cumi-Cumi,Sedang,801.0,171.6,0.214,sebagian,2,induk (2 ruas),Jalan Cumi-Cumi VI | Jalan Cumi-Cumi VII
+Semarang Utara,33.74.02.003,Jl. Boom Lama Tanggul 1,KOSONG,328.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.017,Jl. Hassanudin,Baik,2027.0,339.4,0.167,sebagian,2,mirip (0.98),Jalan Hasanudin
+Semarang Utara,33.74.02.060,Jl. Yos Sudarso Kalibaru Barat,Sedang,1171.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.035,Jl. Pasir Mas,Sedang,628.0,840.1,1.338,penuh,3,induk (3 ruas),Jalan Pasir Mas I | Jalan Pasir Mas II | Jalan Pasir Mas III
+Semarang Utara,33.74.02.055,Jl. Tambra,Baik,292.0,187.8,0.643,penuh,1,persis,Jalan Tambra
+Semarang Utara,33.74.02.051,Jl. Tambak Mas,Sedang,369.0,2530.8,6.859,berlebih,16,induk (10 ruas),Jalan Tambak Mas I | Jalan Tambak Mas II | Jalan Tambak Mas III | Jalan Tambak Mas IV | Jalan Tambak Mas IX | Jalan Tambak Mas V | Jalan Tambak Mas VI | Jalan Tambak Mas VII | Jalan Tambak Mas VIII | Jalan Tambak Mas X
+Semarang Utara,33.74.02.036,Jl. Patriot,Baik,319.0,1420.1,4.452,berlebih,11,induk (9 ruas),Jalan Patriot I | Jalan Patriot II | Jalan Patriot III | Jalan Patriot IV | Jalan Patriot IX | Jalan Patriot V | Jalan Patriot VII | Jalan Patriot VIII | Jalan Patriot X
+Semarang Utara,33.74.02.018,Jl. Hassanudin Rusunawa,Rusak Ringan,526.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.043,Jl. Satria Utara,Baik,463.0,550.4,1.189,penuh,2,persis,Jalan Satria Utara
+Semarang Utara,33.74.02.009,Jl. Brotojoyo Timur,Sedang,165.0,167.1,1.012,penuh,1,persis,Jalan Brotojoyo Timur
+Semarang Utara,33.74.02.014,Jl. Empu Tantular,Baik,1347.0,1305.4,0.969,penuh,4,persis,Jalan Empu Tantular
+Semarang Utara,33.74.02.058,Jl. Tawang 1,Baik,547.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.001,Jl. Bandarharjo,Sedang,444.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.053,Jl. Tambakrejo Makam,Rusak Ringan,1421.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.027,Jl. Kutilang,Sedang,134.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.005,Jl. Branjangan,Baik,271.0,271.8,1.003,penuh,2,persis,Jalan Branjangan
+Semarang Utara,33.74.02.049,Jl. Taman Garuda,Baik,203.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.024,Jl. Kedasih,Sedang,279.0,280.3,1.005,penuh,2,persis,Jalan Kedasih
+Semarang Utara,33.74.02.022,Jl. Kapten Wiratno,Sedang,880.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.042,Jl. Ronggowarsito 2,Sedang,350.0,340.5,0.973,penuh,1,persis,Jalan Ronggowarsito II
+Semarang Utara,33.74.02.023,Jl. Kebonharjo,Baik,1110.0,1120.7,1.01,penuh,1,induk,Jalan Kebon Harjo I
+Semarang Utara,33.74.02.026,Jl. Kuala Mas 2,Sedang,99.0,399.6,4.036,berlebih,1,persis,Jalan Kuala Mas II
+Semarang Utara,33.74.02.054,Jl. Tambakrejo Tanggul,Rusak Berat,1453.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.041,Jl. Ronggowarsito,Baik,1664.0,1425.7,0.857,penuh,3,persis,Jalan Ronggowarsito
+Semarang Utara,33.74.02.047,Jl. Sleko,Sedang,694.0,236.6,0.341,sebagian,2,persis,Jalan Sleko
+Semarang Utara,33.74.02.052,Jl. Tambakmulyo Tanjungmas,Baik,859.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.045,Jl. Sendowo Barat,Sedang,219.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.034,Jl. Nuri,Sedang,148.0,360.5,2.436,berlebih,5,persis,Jalan Nuri
+Semarang Utara,33.74.02.046,Jl. Sendowo Timur,Baik,311.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.038,Jl. Perkutut,Sedang,255.0,211.1,0.828,penuh,1,persis,Jalan Perkutut
+Semarang Utara,33.74.02.015,Jl. Garuda,Baik,158.0,252.5,1.598,penuh,3,persis,Jalan Garuda
+Semarang Utara,33.74.02.040,Jl. Poncol,Sedang,133.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.011,Jl. Bundaran Bubaan,Sedang,245.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.031,Jl. Merak,Sedang,580.0,360.8,0.622,penuh,1,persis,Jalan Merak
+Semarang Utara,33.74.02.004,Jl. Boom Lama Tanggul 2,Sedang,1101.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.002,Jl. Boom Lama,Baik,973.0,976.5,1.004,penuh,5,mirip (0.96),Jalan Bom Lama
+Semarang Utara,33.74.02.020,Jl. Kali Baru,Baik,852.0,0,,,0,tidak cocok,
+Semarang Utara,33.74.02.028,Jl. Layur,Sedang,430.0,392.1,0.912,penuh,1,persis,Jalan Layur
+Semarang Utara,33.74.02.029,Jl. Layur 1,Rusak Ringan,202.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.086,Jl. Rejosari,Baik,709.0,987.7,1.393,penuh,9,persis,Jalan Rejosari
+Tembalang,33.74.10.077,Jl. Nilam,Sedang,256.0,557.9,2.179,berlebih,3,induk (3 ruas),Jalan Nilam I | Jalan Nilam II | Jalan Nilam IV
+Tembalang,33.74.10.097,Jl. Sambiroto 4,Baik,606.0,372.4,0.615,penuh,2,persis,Jalan Sambiroto IV
+Tembalang,33.74.10.061,Jl. Kompol R. Soekanto,Sedang,4052.0,4987.8,1.231,penuh,16,persis,Jalan Kompol R. Soekanto
+Tembalang,33.74.10.060,"Jl. Kol. H. Iman Soeparto Tjakrajoeda, SH",Baik,4208.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.046,Jl. Kedungmundu,Baik,3878.0,7515.1,1.938,berlebih,24,persis,Jalan Kedungmundu
+Tembalang,33.74.10.013,Jl. Bukit Cemara Mustika,Sedang,246.0,884.9,3.597,berlebih,10,induk (8 ruas),Jalan Bukit Cemara Mustika I | Jalan Bukit Cemara Mustika II | Jalan Bukit Cemara Mustika III | Jalan Bukit Cemara Mustika IV | Jalan Bukit Cemara Mustika V | Jalan Bukit Cemara Mustika VI | Jalan Bukit Cemara Mustika VII | Jalan Bukit Cemara Mustika X
+Tembalang,33.74.10.023,Jl. Elang,Baik,1496.0,369.8,0.247,sebagian,3,induk (2 ruas),Jalan Elang I | Jalan Elang II
+Tembalang,33.74.10.099,Jl. Sambiroto 7,Sedang,233.0,230.0,0.987,penuh,1,persis,Jalan Sambiroto VII
+Tembalang,33.74.10.043,Jl. Karanggawang,Baik,1069.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.067,Jl. Mangunharjo 1,Sedang,1811.0,1367.1,0.755,penuh,5,persis,Jalan Mangunharjo 1
+Tembalang,33.74.10.096,Jl. Sambiroto 3,Sedang,601.0,135.7,0.226,sebagian,1,persis,Jalan Sambiroto III
+Tembalang,33.74.10.071,Jl. Mulawarman Barat 2,Sedang,472.0,452.1,0.958,penuh,1,persis,Jalan Mulawarman Barat II
+Tembalang,33.74.10.020,Jl. Deliksari,Sedang,724.0,1372.8,1.896,berlebih,24,persis,Jalan Deliksari
+Tembalang,33.74.10.059,Jl. Kokosan,KOSONG,196.0,411.1,2.097,berlebih,5,induk (5 ruas),Jalan Kokosan I | Jalan Kokosan II | Jalan Kokosan III | Jalan Kokosan IV | Jalan Kokosan V
+Tembalang,33.74.10.094,Jl. Salak,Baik,316.0,92.0,0.291,sebagian,1,persis,Jalan Salak
+Tembalang,33.74.10.109,Jl. Sendangguwo Selatan 9,Baik,500.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.107,Jl. Sendangguwo 10,KOSONG,707.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.100,Jl. Sambiroto Asri Barat,Sedang,986.0,543.5,0.551,sebagian,4,induk (3 ruas),Jalan Sambiroto Asri Barat I | Jalan Sambiroto Asri Barat II | Jalan Sambiroto Asri Barat IV
+Tembalang,33.74.10.036,Jl. Gondang,Sedang,1190.0,95.0,0.08,sebagian,1,persis,Jalan Gondang
+Tembalang,33.74.10.117,Jl. Sipodang,Baik,358.0,360.5,1.007,penuh,2,persis,Jalan Sipodang
+Tembalang,33.74.10.130,Jl. Timoho 1,Baik,387.0,386.0,0.997,penuh,2,persis,Jalan Timoho I
+Tembalang,33.74.10.126,Jl. Tembalang Baru,Sedang,304.0,303.3,0.998,penuh,2,persis,Jalan Tembalang Baru
+Tembalang,33.74.10.035,Jl. Gerung Sari 1,Baik,236.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.082,Jl. Perum Diponegoro,Sedang,973.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.123,Jl. Tamtama Timur Dalam,Baik,318.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.037,Jl. Jangli Gabeng,Sedang,1563.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.095,Jl. Salak 1,Baik,337.0,241.5,0.717,penuh,2,persis,Jalan Salak I
+Tembalang,33.74.10.105,Jl. Sawi 9,Baik,294.0,292.3,0.994,penuh,1,persis,Jalan Sawi IX
+Tembalang,33.74.10.040,Jl. K.H. Sirajudin,Baik,431.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.070,Jl. Mulawarman 5,Sedang,266.0,261.7,0.984,penuh,1,persis,Jalan Mulawarman V
+Tembalang,33.74.10.009,Jl. Banyuputih,Baik,1076.0,242.1,0.225,sebagian,3,induk (3 ruas),Jalan Banyu Putih I | Jalan Banyu Putih II | Jalan Banyu Putih III
+Tembalang,33.74.10.017,Jl. Bukit Permata Hijau,Sedang,1696.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.088,Jl. Rogojembangan,Sedang,629.0,770.8,1.225,penuh,5,induk (5 ruas),Jalan Rogojembangan I | Jalan Rogojembangan III | Jalan Rogojembangan IV | Jalan Rogojembangan V | Jalan Rogojembangan VI
+Tembalang,33.74.10.103,Jl. Saputan,Sedang,644.0,67.0,0.104,sebagian,1,persis,Jalan Saputan
+Tembalang,33.74.10.026,Jl. Gayam Sari Selatan,Baik,447.0,261.2,0.584,sebagian,2,persis,Jalan Gayamsari Selatan
+Tembalang,33.74.10.108,Jl. Sendangguwo Selatan,Baik,696.0,828.0,1.19,penuh,5,persis,Jalan Sendangguwo Selatan
+Tembalang,33.74.10.066,Jl. Lobak 2,Sedang,253.0,281.6,1.113,penuh,1,persis,Jalan Lobak II
+Tembalang,33.74.10.064,Jl. Lembayung,Baik,276.0,146.6,0.531,sebagian,1,persis,Jalan Lembayung
+Tembalang,33.74.10.104,Jl. Sawi,Baik,518.0,515.4,0.995,penuh,2,persis,Jalan Sawi
+Tembalang,33.74.10.014,Jl. Bukit Cemara Mustika 6,Baik,185.0,141.4,0.764,penuh,2,persis,Jalan Bukit Cemara Mustika VI
+Tembalang,33.74.10.131,Jl. Timoho Barat 3,Sedang,174.0,644.0,3.701,berlebih,7,persis,Jalan Timoho Barat III
+Tembalang,33.74.10.106,Jl. Sekip 3,KOSONG,437.0,229.9,0.526,sebagian,3,persis,Jalan Sekip III
+Tembalang,33.74.10.076,Jl. Ngemplak,Sedang,222.0,812.0,3.658,berlebih,5,persis,Jalan Ngemplak
+Tembalang,33.74.10.016,Jl. Bukit Mrican,Sedang,463.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.044,Jl. Karanggawang Barat,Baik,604.0,1427.6,2.364,berlebih,7,persis,Jalan Karanggawang Barat
+Tembalang,33.74.10.124,Jl. Telumpak,Rusak Ringan,2178.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.125,Jl. Telumpak 1,Sedang,330.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.118,Jl. Skip Saptamarga,Baik,884.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.007,Jl. Banteng,Sedang,1243.0,491.8,0.396,sebagian,1,persis,Jalan Banteng
+Tembalang,33.74.10.038,Jl. Jangli Gabeng 3,Baik,371.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.098,Jl. Sambiroto 5,Sedang,451.0,278.3,0.617,penuh,1,persis,Jalan Sambiroto V
+Tembalang,33.74.10.127,Jl. Tembalang Baru 4,Baik,362.0,316.8,0.875,penuh,1,persis,Jalan Tembalang Baru IV
+Tembalang,33.74.10.034,Jl. Genting 2,Baik,549.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.033,Jl. Genting 1,Sedang,601.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.089,Jl. Rowo Tengah,Baik,407.0,634.0,1.558,penuh,5,induk (5 ruas),Jalan Rowo Tengah I | Jalan Rowo Tengah II | Jalan Rowo Tengah III | Jalan Rowo Tengah IV | Jalan Rowo Tengah V
+Tembalang,33.74.10.121,Jl. Tampirejo 2,Baik,410.0,244.4,0.596,sebagian,1,persis,Jalan Tampirejo II
+Tembalang,33.74.10.045,Jl. Kedung Winong,Baik,827.0,173.1,0.209,sebagian,1,persis,Jalan Kedung Winong
+Tembalang,33.74.10.113,Jl. Sinar Mulyo,Sedang,278.0,360.5,1.297,penuh,4,induk (4 ruas),Jalan Sinar Mulyo I | Jalan Sinar Mulyo II | Jalan Sinar Mulyo III | Jalan Sinar Mulyo IV
+Tembalang,33.74.10.025,Jl. Elangsari Timur,Baik,761.0,436.2,0.573,sebagian,1,persis,Jalan Elangsari Timur
+Tembalang,33.74.10.024,Jl. Elangsari,Sedang,276.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.011,Jl. Berlian,Baik,385.0,970.4,2.52,berlebih,7,induk (6 ruas),Jalan Berlian I | Jalan Berlian II | Jalan Berlian III | Jalan Berlian IV | Jalan Berlian VI | Jalan Berlian VII
+Tembalang,33.74.10.119,Jl. Taman Baru Asri,Sedang,778.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.018,Jl. Bulusan Utara,Sedang,477.0,462.3,0.969,penuh,1,persis,Jalan Bulusan Utara
+Tembalang,33.74.10.008,Jl. Banteng 3,Baik,683.0,152.8,0.224,sebagian,2,persis,Jalan Banteng III
+Tembalang,33.74.10.132,Jl. Timoho Timur 4,Sedang,119.0,122.7,1.031,penuh,1,persis,Jalan Timoho Timur IV
+Tembalang,33.74.10.006,Jl. Banjarsari Barat,Sedang,621.0,610.8,0.984,penuh,2,persis,Jalan Banjarsari Barat
+Tembalang,33.74.10.129,Jl. Tembalang Selatan 9,Baik,200.0,149.4,0.747,penuh,2,persis,Jalan Tembalang Selatan IX
+Tembalang,33.74.10.010,Jl. Bayem,Baik,243.0,1123.7,4.624,berlebih,8,induk (8 ruas),Jalan Bayem I | Jalan Bayem II | Jalan Bayem III | Jalan Bayem IX | Jalan Bayem V | Jalan Bayem VI | Jalan Bayem VII | Jalan Bayem VIII
+Tembalang,33.74.10.085,Jl. Prof. Suharso,Baik,2770.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.058,Jl. Klipang Timur,Baik,1319.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.102,Jl. Sambung Krajan,Sedang,2435.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.092,Jl. Rowosari Asri,Baik,2530.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.093,Jl. Rowosari Asri Selatan,KOSONG,794.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.015,Jl. Bukit Kelapa Sawit 8,Baik,380.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.042,Jl. Kampung Dadapan,Baik,931.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.012,Jl. Bukit Bougenvile,Sedang,1290.0,76.4,0.059,sebagian,1,mirip (0.97),Jalan Bukit Bougenville
+Tembalang,33.74.10.115,Jl. Sinar Waluyo,Baik,678.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.112,Jl. Sinar Mukti,Sedang,270.0,279.8,1.036,penuh,1,persis,Jalan Sinar Mukti
+Tembalang,33.74.10.133,Jl. Tulus,Baik,918.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.049,Jl. Ketileng Indah 1,Baik,426.0,273.0,0.641,penuh,2,persis,Jalan Ketileng Indah I
+Tembalang,33.74.10.050,Jl. Ketileng Indah Blok M,Baik,237.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.053,Jl. Ketileng Puspita,Baik,238.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.052,Jl. Ketileng Kencana,Baik,286.0,289.2,1.011,penuh,1,persis,Jalan Ketileng Kencana
+Tembalang,33.74.10.051,Jl. Ketileng Indah Blok N,Baik,177.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.022,Jl. Durenan Baru,Baik,328.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.079,Jl. Pengkol,Baik,2125.0,107.0,0.05,sebagian,1,persis,Jalan Pengkol
+Tembalang,33.74.10.080,Jl. Pengkol 1,Baik,349.0,550.0,1.576,penuh,3,persis,Jalan Pengkol I
+Tembalang,33.74.10.110,Jl. Sinar Agung,Sedang,236.0,233.1,0.988,penuh,1,persis,Jalan Sinar Agung
+Tembalang,33.74.10.004,Jl. Amposari Barat,Rusak Ringan,274.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.116,Jl. SInar Waluyo Utara,Baik,345.0,343.6,0.996,penuh,2,persis,Jalan Sinar Waluyo Utara
+Tembalang,33.74.10.111,Jl. Sinar Gemah Timur,Sedang,367.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.075,Jl. Muntuksari,Sedang,747.0,698.5,0.935,penuh,6,induk (6 ruas),Jalan Muntuksari I | Jalan Muntuksari II | Jalan Muntuksari III | Jalan Muntuksari IV | Jalan Muntuksari V | Jalan Muntuksari VI
+Tembalang,33.74.10.091,Jl. Rowosari,Baik,1739.0,695.1,0.4,sebagian,5,persis,Jalan Rowosari
+Tembalang,33.74.10.031,Jl. Gemah Sari 8,Baik,240.0,471.4,1.964,berlebih,6,persis,Jalan Gemah Sari VIII
+Tembalang,33.74.10.134,Jl. Tunggu,Baik,377.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.114,Jl. Sinar Rembulan,Sedang,129.0,134.7,1.044,penuh,1,persis,Jalan Sinar Rembulan
+Tembalang,33.74.10.068,Jl. Muharom,Sedang,270.0,265.3,0.983,penuh,1,mirip (0.96),Jalan Mucharom
+Tembalang,33.74.10.021,Jl. Durenan,Baik,779.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.090,Jl. Rowo Tengah 5,Sedang,432.0,140.3,0.325,sebagian,1,persis,Jalan Rowo Tengah V
+Tembalang,33.74.10.062,Jl. Krajan,Sedang,774.0,102.3,0.132,sebagian,1,persis,Jalan Krajan
+Tembalang,33.74.10.120,Jl. Tampirejo 1,Baik,370.0,191.1,0.517,sebagian,1,persis,Jalan Tampirejo I
+Tembalang,33.74.10.001,Jl. Afa Permai,Sedang,704.0,848.7,1.205,penuh,6,induk (6 ruas),Jalan Afa Permai I | Jalan Afa Permai II | Jalan Afa Permai III | Jalan Afa Permai IV | Jalan Afa Permai V | Jalan Afa Permai VI
+Tembalang,33.74.10.073,Jl. Mundu Baru 4,Sedang,161.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.083,Jl. Perum Wana Mukti,Sedang,672.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.019,Jl. Dadapan,Sedang,1012.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.005,Jl. Amposari Tengah,Sedang,559.0,450.1,0.805,penuh,3,persis,Jalan Amposari Tengah
+Tembalang,33.74.10.032,Jl. Gemahsari Permai,Sedang,461.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.030,Jl. Gemah Sari 13,Baik,103.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.028,Jl. Gemah Jaya 1,Sedang,248.0,342.9,1.383,penuh,2,persis,Jalan Gemah Jaya I
+Tembalang,33.74.10.003,Jl. Amposari,Baik,516.0,589.5,1.142,penuh,4,persis,Jalan Amposari
+Tembalang,33.74.10.041,Jl. Kampung Batik,Baik,229.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.027,Jl. Gemah Jaya,Sedang,204.0,216.3,1.061,penuh,2,persis,Jalan Gemah Jaya
+Tembalang,33.74.10.056,Jl. Klipang Lama,Baik,261.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.055,Jl. Klipang Golf,Baik,950.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.072,Jl. Mundu Baru 3,Sedang,126.0,124.9,0.992,penuh,1,persis,Jalan Mundu Baru III
+Tembalang,33.74.10.087,Jl. Rejosari 2,Baik,249.0,802.6,3.223,berlebih,7,persis,Jalan Rejosari II
+Tembalang,33.74.10.063,Jl. Krasak,Sedang,920.0,631.3,0.686,penuh,4,induk (3 ruas),Jalan Krasak I | Jalan Krasak III | Jalan Krasak IV
+Tembalang,33.74.10.101,Jl. Sambung,Baik,463.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.065,Jl. Lobak,Sedang,413.0,767.9,1.859,berlebih,4,induk (3 ruas),Jalan Lobak I | Jalan Lobak II | Jalan Lobak III
+Tembalang,33.74.10.069,Jl. Mulawarman,Baik,1400.0,1517.4,1.084,penuh,12,induk (4 ruas),Jalan Mulawarman II | Jalan Mulawarman III | Jalan Mulawarman IV | Jalan Mulawarman V
+Tembalang,33.74.10.078,Jl. Pekuncen,Sedang,856.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.039,Jl. Juwono Baru,KOSONG,728.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.084,"Jl. Prof. H. S. Sudharto, SH",Baik,2343.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.057,Jl. Klipang PDAM,Baik,510.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.081,Jl. Perum Dinar Mas,Baik,1463.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.048,Jl. Ketileng Indah,Baik,1278.0,475.4,0.372,sebagian,5,induk (3 ruas),Jalan Ketileng Indah I | Jalan Ketileng Indah II | Jalan Ketileng Indah III
+Tembalang,33.74.10.054,Jl. Klipang,Baik,2490.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.122,Jl. Tamtama Timur,Baik,313.0,1122.5,3.586,berlebih,9,induk (5 ruas),Jalan Tamtama Timur I | Jalan Tamtama Timur III | Jalan Tamtama Timur VII | Jalan Tamtama Timur VIII | Jalan Tamtama Timur X
+Tembalang,33.74.10.029,Jl. Gemah Sari,Sedang,263.0,687.5,2.614,berlebih,2,persis,Jalan Gemah Sari
+Tembalang,33.74.10.074,Jl. Mundu Baru 7,Sedang,183.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.047,Jl. Kedungsari,Baik,720.0,528.1,0.733,penuh,7,induk (5 ruas),Jalan Kedungsari I | Jalan Kedungsari II | Jalan Kedungsari III | Jalan Kedungsari IV | Jalan Kedungsari V
+Tembalang,33.74.10.002,Jl. Al Imran 2,Sedang,208.0,0,,,0,tidak cocok,
+Tembalang,33.74.10.128,Jl. Tembalang Selatan 7,Baik,216.0,232.3,1.075,penuh,5,persis,Jalan Tembalang Selatan VII
+Tugu,33.74.16.005,Jl. Karanganyar,Baik,751.0,738.0,0.983,penuh,3,persis,Jalan Karanganyar
+Tugu,33.74.16.007,Jl. Kauman Randugarut,Sedang,671.0,0,,,0,tidak cocok,
+Tugu,33.74.16.011,Jl. Panggung,Sedang,877.0,0,,,0,tidak cocok,
+Tugu,33.74.16.010,Jl. Mekar,Sedang,781.0,0,,,0,tidak cocok,
+Tugu,33.74.16.008,Jl. Kyai Gilang,Rusak Ringan,962.0,2854.7,2.967,berlebih,4,persis,Jalan Kyai Gilang
+Tugu,33.74.16.006,Jl. Kauman Mangkang Wetan,Sedang,1562.0,0,,,0,tidak cocok,
+Tugu,33.74.16.009,Jl. Mangunharjo (Mangkang Wetan),Sedang,2623.0,0,,,0,tidak cocok,
+Tugu,33.74.16.014,Jl. Stasiun Mangkang,Sedang,253.0,0,,,0,tidak cocok,
+Tugu,33.74.16.012,Jl. Pulau Tirang Tapak,Sedang,2029.0,0,,,0,tidak cocok,
+Tugu,33.74.16.016,Jl. Tugurejo,Baik,822.0,0,,,0,tidak cocok,
+Tugu,33.74.16.004,Jl. Irigasi Utara (Mangkang Kulon),Baik,2271.0,0,,,0,tidak cocok,
+Tugu,33.74.16.013,Jl. Stasiun Jrakah,Sedang,706.0,687.6,0.974,penuh,1,mirip (0.99),Jalan Stasiun Jerakah
+Tugu,33.74.16.001,Jl. Cisadane,Rusak Berat,500.0,1492.6,2.985,berlebih,6,persis,Jalan Cisadane
+Tugu,33.74.16.003,Jl. Irigasi,Baik,1850.0,0,,,0,tidak cocok,
+Tugu,33.74.16.002,Jl. Gerbang Pintu Semarang,Baik,462.0,0,,,0,tidak cocok,
+Tugu,33.74.16.015,Jl. Tapak,Baik,865.0,0,,,0,tidak cocok,
